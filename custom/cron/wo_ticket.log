@@ -1,0 +1,101 @@
+[2025-04-15 18:10:01] [Topic ID: 20-WO Form] [WO: 18324] creating ticket
+[2025-04-15 18:10:15] [Topic ID: 26-Turnkey Material Management] [WO: 18324] creating ticket
+[2025-04-15 18:10:29] [Topic ID: 25-BOM Load] [WO: 18323] creating ticket
+[2025-04-15 18:10:44] [Topic ID: 20-WO Form] [WO: 18323] creating ticket
+[2025-04-15 18:11:01] [Topic ID: 26-Turnkey Material Management] [WO: 18323] creating ticket
+[2025-04-15 18:11:16] [Topic ID: 25-BOM Load] [WO: 18322] creating ticket
+[2025-04-15 18:11:33] [Topic ID: 20-WO Form] [WO: 18322] creating ticket
+[2025-04-15 18:11:48] [Topic ID: 26-Turnkey Material Management] [WO: 18322] creating ticket
+[2025-04-15 18:12:03] [Topic ID: 20-WO Form] [WO: 18321] creating ticket
+[2025-04-15 18:12:18] [Topic ID: 26-Turnkey Material Management] [WO: 18321] creating ticket
+[2025-04-15 18:12:34] [Topic ID: 20-WO Form] [WO: 18320] creating ticket
+[2025-04-15 18:12:54] [Topic ID: 26-Turnkey Material Management] [WO: 18320] creating ticket
+[2025-04-15 18:13:18] [Topic ID: 25-BOM Load] [WO: 18319] creating ticket
+[2025-04-15 18:13:32] [Topic ID: 20-WO Form] [WO: 18319] creating ticket
+[2025-04-15 18:13:46] [Topic ID: 26-Turnkey Material Management] [WO: 18319] creating ticket
+[2025-04-15 18:14:09] [Topic ID: 25-BOM Load] [WO: 18318] creating ticket
+[2025-04-15 18:14:24] [Topic ID: 20-WO Form] [WO: 18318] creating ticket
+[2025-04-15 18:14:41] [Topic ID: 26-Turnkey Material Management] [WO: 18318] creating ticket
+[2025-04-15 18:14:58] [Topic ID: 20-WO Form] [WO: 18317] creating ticket
+[2025-04-15 18:15:14] [Topic ID: 22-Material Review Consigned] [WO: 18317] creating ticket
+[2025-04-15 18:15:30] [Topic ID: 20-WO Form] [WO: 18316] creating ticket
+[2025-04-15 18:15:55] [Topic ID: 22-Material Review Consigned] [WO: 18316] creating ticket
+[2025-04-15 18:16:21] [Topic ID: 20-WO Form] [WO: 18315] creating ticket
+[2025-04-15 18:16:35] [Topic ID: 22-Material Review Consigned] [WO: 18315] creating ticket
+[2025-04-15 18:16:55] [Topic ID: 20-WO Form] [WO: 18314] creating ticket
+[2025-04-15 18:17:15] [Topic ID: 22-Material Review Consigned] [WO: 18314] creating ticket
+[2025-04-15 18:17:43] [Topic ID: 20-WO Form] [WO: 18313] creating ticket
+[2025-04-15 18:17:59] [Topic ID: 22-Material Review Consigned] [WO: 18313] creating ticket
+[2025-04-15 18:30:31] [Topic ID: 27-Data Validity] [WO: 17958] creating ticket
+[2025-04-15 18:30:54] [Topic ID: 27-Data Validity] [WO: 18139] creating ticket
+[2025-04-15 18:31:18] [Topic ID: 27-Data Validity] [WO: 18164] creating ticket
+[2025-04-15 18:31:49] [Topic ID: 27-Data Validity] [WO: 18190] creating ticket
+[2025-04-15 18:32:38] [Topic ID: 27-Data Validity] [WO: 18191] creating ticket
+[2025-04-15 18:33:02] [Topic ID: 27-Data Validity] [WO: 18313] creating ticket
+[2025-04-15 18:33:24] [Topic ID: 27-Data Validity] [WO: 18317] creating ticket
+[2025-04-15 18:33:47] [Topic ID: 27-Data Validity] [WO: 18318] creating ticket
+[2025-04-15 18:34:11] [Topic ID: 27-Data Validity] [WO: 18320] creating ticket
+[2025-04-15 18:34:35] [Topic ID: 27-Data Validity] [WO: 18321] creating ticket
+[2025-04-15 18:34:57] [Topic ID: 27-Data Validity] [WO: 18323] creating ticket
+[2025-04-15 18:35:19] [Topic ID: 27-Data Validity] [WO: 18324] creating ticket
+[2025-04-15 18:47:18] [Topic ID: 15-MPI PK] [WO: 18176] creating ticket
+[2025-04-15 18:47:48] [Topic ID: 15-MPI PK] [WO: 18176] creating ticket
+[2025-04-15 18:48:10] [Topic ID: 21-Valor Processing] [WO: 18176] creating ticket
+[2025-04-15 18:48:31] [Topic ID: 30-MPI US] [WO: 18176] creating ticket
+[2025-04-15 18:48:54] [Topic ID: 15-MPI PK] [WO: 18176] creating ticket
+[2025-04-15 18:49:15] [Topic ID: 21-Valor Processing] [WO: 18176] creating ticket
+[2025-04-15 18:49:39] [Topic ID: 30-MPI US] [WO: 18176] creating ticket
+[2025-04-15 18:50:00] [Topic ID: 15-MPI PK] [WO: 18176] creating ticket
+[2025-04-15 18:50:22] [Topic ID: 21-Valor Processing] [WO: 18176] creating ticket
+[2025-04-15 18:50:44] [Topic ID: 30-MPI US] [WO: 18176] creating ticket
+[2025-04-15 18:56:31] [Topic ID: 15-MPI PK] [WO: 18176] [PROCESSED: ["18176-15"]] creating ticket
+[2025-04-15 18:56:53] [Topic ID: 21-Valor Processing] [WO: 18176] [PROCESSED: ["18176-15","18176-21"]] creating ticket
+[2025-04-15 18:57:15] [Topic ID: 30-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] creating ticket
+[2025-04-15 18:57:37] [Topic ID: 15-MPI PK] [WO: 18176] [PROCESSED: ["18176-15"]] creating ticket
+[2025-04-15 18:57:58] [Topic ID: 21-Valor Processing] [WO: 18176] [PROCESSED: ["18176-15","18176-21"]] creating ticket
+[2025-04-15 18:58:21] [Topic ID: 30-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] creating ticket
+[2025-04-15 18:58:42] [Topic ID: 15-MPI PK] [WO: 18176] [PROCESSED: ["18176-15"]] creating ticket
+[2025-04-15 19:03:14] [Topic ID: 15-MPI PK] [WO: 18176] [PROCESSED: ["18176-15"]] creating ticket
+[2025-04-15 19:03:36] [Topic ID: 21-Valor Processing] [WO: 18176] [PROCESSED: ["18176-15","18176-21"]] creating ticket
+[2025-04-15 19:03:57] [Topic ID: 30-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] creating ticket
+[2025-04-15 19:04:18] [Topic ID: 15-MPI PK] [WO: 18176] [PROCESSED: ["18176-15"]] creating ticket
+[2025-04-15 19:04:40] [Topic ID: 21-Valor Processing] [WO: 18176] [PROCESSED: ["18176-15","18176-21"]] creating ticket
+[2025-04-15 19:05:02] [Topic ID: 30-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] creating ticket
+[2025-04-15 19:05:25] [Topic ID: 15-MPI PK] [WO: 18176] [PROCESSED: ["18176-15"]] creating ticket
+[2025-04-15 19:06:26] [Topic ID: 15-MPI PK] [WO: 18176] [PROCESSED: ["18176-15"]] creating ticket
+[2025-04-15 19:06:48] [Topic ID: 21-Valor Processing] [WO: 18176] [PROCESSED: ["18176-15","18176-21"]] creating ticket
+[2025-04-15 19:07:10] [Topic ID: 30-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] creating ticket
+[2025-04-15 19:07:32] [Topic ID: 15-MPI PK] [WO: 18176] [PROCESSED: ["18176-15"]] creating ticket
+[2025-04-15 19:07:54] [Topic ID: 21-Valor Processing] [WO: 18176] [PROCESSED: ["18176-15","18176-21"]] creating ticket
+[2025-04-15 19:08:17] [Topic ID: 30-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] creating ticket
+--
+[2025-04-15 19:09:12] [Topic ID: 15-MPI PK] [WO: 18176] [PROCESSED: ["18176-15"]] creating ticket
+[2025-04-15 19:09:34] [Topic ID: 21-Valor Processing] [WO: 18176] [PROCESSED: ["18176-15","18176-21"]] creating ticket
+[2025-04-15 19:09:55] [Topic ID: 30-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] creating ticket
+[2025-04-15 19:10:15] [Topic ID: 15-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
+[2025-04-15 19:10:15] [Topic ID: 21-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
+[2025-04-15 19:10:15] [Topic ID: 30-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
+[2025-04-15 19:10:15] [Topic ID: 15-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
+[2025-04-15 19:10:15] [Topic ID: 21-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
+[2025-04-15 19:10:15] [Topic ID: 30-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
+[2025-04-15 19:10:15] [Topic ID: 15-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
+[2025-04-15 19:10:15] [Topic ID: 21-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
+[2025-04-15 19:10:15] [Topic ID: 30-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
+[2025-04-15 19:10:15] [Topic ID: 15-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
+[2025-04-15 19:10:15] [Topic ID: 21-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
+[2025-04-15 19:10:15] [Topic ID: 30-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
+[2025-04-15 19:10:15] [Topic ID: 15-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
+[2025-04-15 19:10:15] [Topic ID: 21-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
+[2025-04-15 19:10:15] [Topic ID: 30-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
+[2025-04-15 19:10:15] [Topic ID: 15-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
+[2025-04-15 19:10:15] [Topic ID: 21-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
+[2025-04-15 19:10:15] [Topic ID: 30-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
+[2025-04-15 19:10:15] [Topic ID: 15-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
+[2025-04-15 19:10:15] [Topic ID: 21-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
+[2025-04-15 19:10:15] [Topic ID: 30-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
+[2025-04-15 19:10:15] [Topic ID: 15-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
+[2025-04-15 19:10:15] [Topic ID: 21-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
+[2025-04-15 19:10:15] [Topic ID: 30-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
+[2025-04-15 19:10:15] [Topic ID: 15-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
+[2025-04-15 19:10:15] [Topic ID: 21-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
+[2025-04-15 19:10:15] [Topic ID: 30-MPI US] [WO: 18176] [PROCESSED: ["18176-15","18176-21","18176-30"]] skipped duplicate ticket creation
