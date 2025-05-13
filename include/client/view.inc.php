@@ -165,40 +165,7 @@ if ($blockReply = $ticket->isChild() && $ticket->getMergeType() != 'visual')
     <div id="msg_warning"><?php echo $warn; ?></div>
 <?php }
 if ((!$ticket->isClosed() || $ticket->isReopenable()) && !$blockReply) { ?>
-<form id="reply" action="tickets.php?id=<?php echo $ticket->getId();
-?>#reply" name="reply" method="post" enctype="multipart/form-data">
-    <?php csrf_token(); ?>
-    <h2><?php echo __('Post a Reply');?></h2>
-    <input type="hidden" name="id" value="<?php echo $ticket->getId(); ?>">
-    <input type="hidden" name="a" value="reply">
-    <div>
-        <p><em><?php
-         echo __('To best assist you, we request that you be specific and detailed'); ?></em>
-        <font class="error">*&nbsp;<?php echo $errors['message']; ?></font>
-        </p>
-        <textarea name="<?php echo $messageField->getFormName(); ?>" id="message" cols="50" rows="9" wrap="soft"
-            class="<?php if ($cfg->isRichTextEnabled()) echo 'richtext';
-                ?> draft" <?php
-list($draft, $attrs) = Draft::getDraftAndDataAttrs('ticket.client', $ticket->getId(), $info['message']);
-echo $attrs; ?>><?php echo $draft ?: $info['message'];
-            ?></textarea>
-    <?php
-    if ($messageField->isAttachmentsEnabled()) {
-        print $attachments->render(array('client'=>true));
-    } ?>
-    </div>
-<?php
-  if ($ticket->isClosed() && $ticket->isReopenable()) { ?>
-    <div class="warning-banner">
-        <?php echo __('Ticket will be reopened on message post'); ?>
-    </div>
-<?php } ?>
-    <p style="text-align:center">
-        <input type="submit" value="<?php echo __('Post Reply');?>">
-        <input type="reset" value="<?php echo __('Reset');?>">
-        <input type="button" value="<?php echo __('Cancel');?>" onClick="history.go(-1)">
-    </p>
-</form>
+
 <?php
 } ?>
 <script type="text/javascript">

@@ -4,8 +4,18 @@ include_once dirname(__FILE__) . '/includes/functions.php';
 
 $thread_id = $ticket->getId();
 
-summrizeThreadDisscussion($thread_id);
+$id = $_GET['key'];
 
+if($id == 'postThread'){
+ 
+    $summary = $_SESSION['summary'];
+    $summary = $summary['decoded_response'];
+
+    postThread($summary , $thread_id);
+
+}
+
+summrizeThreadDisscussion($thread_id);
 
 function summrizeThreadDisscussion($ticket_id) {
 
@@ -42,11 +52,27 @@ function summrizeThreadDisscussion($ticket_id) {
         }
 
         $allData = array_merge($threadChat, $attachments, $tasks);
-        $summary = callOpenAI($allData);
-
-        callHTML($summary);
+        
        
 
+        if (isset($_SESSION['summary'])) {
+
+            $summary = $_SESSION['summary'];
+        } else {
+            $summary = callOpenAI($allData);
+            $_SESSION['summary'] = $summary; // Store the summary in session for future use
+        }
+
+        $id = $_GET['key'];
+        if($id == 'refresh') {
+            $summary = callOpenAI($allData);
+            $_SESSION['summary'] = $summary; 
+        }
+
+        callHTML($summary , $ticket_id);
+
+        
+    
     }else{
         echo "thread details not found";
     }
@@ -73,9 +99,10 @@ function getThreadList ($threadObject) {
 function callOpenAI ($chat) {
 
     $cleanedChat = strip_tags(json_encode($chat) , '<a><div><p>');
+    
 
-    $apiKey = "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"; // Replace this
 
+    
     $data = [
         "model" => "gpt-3.5-turbo",
         "messages" => [
@@ -139,14 +166,16 @@ function getTaskThread( $ticket_id ) {
     return getDataFromResultSet($result);
 }
 
-function callHTML($summary) {
-    echo "
-            <!DOCTYPE html>
+function callHTML($summary , $ticket_id) {
+    echo "<!DOCTYPE html>
                 <html lang='en'>
                 <head>
     <meta charset='UTF-8'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
     <title>Ticket Chat Summary</title>
+    <!-- Bootstrap CSS -->
+
+
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -165,11 +194,12 @@ function callHTML($summary) {
         h1 {
             font-size: 24px;
             color: #333;
-            text-align: center;
+            text-align: left;
             margin-bottom: 20px;
+            text-decoration:underline;
         }
         p {
-            font-size: 16px;
+            font-size: 17px;
             color: #555;
             line-height: 1.6;
         }
@@ -183,16 +213,90 @@ function callHTML($summary) {
 </head>
 <body>
 
-<div class='container'>
-    <h1>Summarized Ticket Chat Thread</h1>
-    <div class='summary-content'>
+<div class='container'>";
+if($_SESSION['flash'] == true){
+    echo '<div class="success-banner">';
+    echo "Thread Has Been Posted";
+    echo '</div>';
+}
+
+
+echo "<h5 ><strong>AI Generated Summary</strong></h5>
+  
+   <div class='summary-content'>
         <p>{$summary['decoded_response']}</p>
     </div>
+
+    <button class='btn btn-primary mt-4' id='refreshSummary' data-ticket='".$ticket_id."' > Refresh Summary </button> 
+   
+    <button type='button' class='btn btn-primary mt-4'  id='showModal'>
+        Edit Summary
+    </button>
+
+    <button type='button' class='btn btn-primary mt-4 d-none'  id='hideModal'>
+        Save Summary
+    </button>
+
+    <button type='button' class='btn btn-primary mt-4' data-ticket_id='".$ticket_id."' id='postThread'>
+        Post Thread
+    </button>
+
 </div>
 
 </body>
+
+
 </html>
 ";
 }
+
+
+function postThread($summary , $ticket_id){
+
+    $getThreadId = getThreadId($ticket_id);
+    $thread_id = $getThreadId[0]['id'];
+
+    $query = sprintf(
+        'INSERT INTO `sem_thread_entry` (`thread_id`, `user_id` ,`type`, `flags`, `poster`, `body`, `format`, `ip_address` , `created`) 
+        VALUES (%1$d, \'%2$s\', \'%3$s\', \'%4$s\', \'%5$s\', \'%6$s\', \'%7$s\' ,  \'%8$s\' , \'%9$s\')',
+        $thread_id,   
+        '32',   
+        'R',    
+        '576',       
+        'Ahmar',      
+        '<p> '.$summary.' </p>',        
+        'html',        
+        '::1',    
+        date('Y-m-d H:i:s')
+    );
+
+    /* echo $query; */
+    $result = executeQuery($query);
+
+
+    $query = sprintf(
+        'INSERT INTO `sem_thread_event` (`thread_id`, `thread_type`, `event_id`, `staff_id`, `team_id`, `dept_id`, `topic_id`, `data`, `username`, `uid`, `uid_type`, `annulled`, `timestamp`) 
+        VALUES (%1$d, \'%2$s\', %3$d, %4$d, %5$d, %6$d, %7$d, \'%8$s\', \'%9$s\', %10$d, \'%11$s\', %12$s, UTC_TIMESTAMP())',
+        $thread_id,      
+        'T',    
+        '1',       
+        0,      
+        0,        
+        '1',        
+        0,      
+        "",           
+        'SYSTEM',       
+        32,            
+        'U',       
+        0,      
+        date('Y-m-d H:i:s')
+    );
+    /* echo $query; */
+    $result = executeQuery($query);
+
+    $_SESSION['flash'] = 'true';
+    header('Location: tickets.php?id=' . $ticket_id);
+  
+} 
 
 ?>

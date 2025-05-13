@@ -1105,36 +1105,32 @@ $tcount = $ticket->getThreadEntries($types) ? $ticket->getThreadEntries($types)-
 </div>
 
 <div id="summrizeThread" class="tab_content" style="display:none;">
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="exampleModalLabel">Modal Title</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        Your content goes here.
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
     <?php include_once(CUSTOM_INCLUDE_DIR . 'summrizethread.php'); ?>
 </div>
 <!-- AZ Added On July 02, 2024 -->
 
 <div id="ticket_thread" class="tab_content">
 
-<?php
-    // Render ticket thread
-    if ($thread)
-        $thread->render(
-            array('M', 'R', 'N'),
-            array(
-                'html-id'   => 'ticketThread',
-                'mode'      => Thread::MODE_STAFF,
-                'sort'      => $thisstaff->thread_view_order
-                )
-            );
-?>
-<div class="clear"></div>
-<?php
-if ($errors['err'] && isset($_POST['a'])) {
-    // Reflect errors back to the tab.
-    $errors[$_POST['a']] = $errors['err'];
-} elseif($warn) { ?>
-    <div id="msg_warning"><?php echo $warn; ?></div>
-<?php
-} ?>
 
-<div class="sticky bar stop actions" id="response_options"
->
+
+<div class="sticky bar stop actions" id="response_options">
     <ul class="tabs" id="response-tabs">
         <?php
         if ($role->hasPerm(Ticket::PERM_REPLY) && !($blockReply)) { ?>
@@ -1375,7 +1371,7 @@ if ($errors['err'] && isset($_POST['a'])) {
                     </div>
                     </td></tr>
                     <tr><td>&nbsp;</td><td><!--osta-->
-<?php } # endif (canned-resonse-enabled)
+        <?php } # endif (canned-resonse-enabled)
                     $signature = '';
                     switch ($thisstaff->getDefaultSignatureType()) {
                     case 'dept':
@@ -1398,8 +1394,8 @@ if ($errors['err'] && isset($_POST['a'])) {
                         rows="9" wrap="soft"
                         class="<?php if ($cfg->isRichTextEnabled()) echo 'richtext';
                             ?> draft draft-delete fullscreen" <?php
-    list($draft, $attrs) = Draft::getDraftAndDataAttrs('ticket.response', $ticket->getId(), $info['response']);
-    echo $attrs; ?>><?php echo ThreadEntryBody::clean($_POST ? $info['response'] : $draft);
+        list($draft, $attrs) = Draft::getDraftAndDataAttrs('ticket.response', $ticket->getId(), $info['response']);
+        echo $attrs; ?>><?php echo ThreadEntryBody::clean($_POST ? $info['response'] : $draft);
                     ?></textarea>
                 </div><!--osta-->
                 <div id="reply_form_attachments" class="attachments">
@@ -1519,8 +1515,8 @@ if ($errors['err'] && isset($_POST['a'])) {
                         rows="9" wrap="soft"
                         class="<?php if ($cfg->isRichTextEnabled()) echo 'richtext';
                             ?> draft draft-delete fullscreen" <?php
-    list($draft, $attrs) = Draft::getDraftAndDataAttrs('ticket.note', $ticket->getId(), $info['note']);
-    echo $attrs; ?>><?php echo ThreadEntryBody::clean($_POST ? $info['note'] : $draft);
+        list($draft, $attrs) = Draft::getDraftAndDataAttrs('ticket.note', $ticket->getId(), $info['note']);
+        echo $attrs; ?>><?php echo ThreadEntryBody::clean($_POST ? $info['note'] : $draft);
                         ?></textarea>
                 <div class="attachments">
                 <?php
@@ -1567,9 +1563,31 @@ if ($errors['err'] && isset($_POST['a'])) {
        </p>
    </form>
    <?php } ?>
- </div>
- </div>
+ 
 </div>
+
+<?php
+    // Render ticket thread
+    if ($thread)
+        $thread->render(
+            array('M', 'R', 'N'),
+            array(
+                'html-id'   => 'ticketThread',
+                'mode'      => Thread::MODE_STAFF,
+                'sort'      => $thisstaff->thread_view_order
+                )
+            );
+?>
+<div class="clear"></div>
+<?php
+if ($errors['err'] && isset($_POST['a'])) {
+    // Reflect errors back to the tab.
+    $errors[$_POST['a']] = $errors['err'];
+} elseif($warn) { ?>
+    <div id="msg_warning"><?php echo $warn; ?></div>
+<?php
+} ?>
+
 <div style="display:none;" class="dialog" id="print-options">
     <h3><?php echo __('Ticket Print Options');?></h3>
     <a class="close" href=""><i class="icon-remove-circle"></i></a>

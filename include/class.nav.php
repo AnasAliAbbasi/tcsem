@@ -265,6 +265,7 @@ class AdminNav extends StaffNav{
                 case 'report':
                     $subnav[]=array('desc'=>__('WO States Report'),'href'=>'../custom/report/track-states.php', 'target' => '_blank', 'iconclass'=>'helpTopics');
                     $subnav[]=array('desc'=>__('Open Tickets Report'),'href'=>'../custom/report/open-tickets.php', 'target' => '_blank' ,'iconclass'=>'helpTopics');
+                    $subnav[]=array('desc'=>__('Global Search'),'href'=>'../custom/report/global-search.php', 'target' => '_blank' ,'iconclass'=>'helpTopics');
                     break;
                 case 'emails':
                     $subnav[]=array('desc'=>__('Emails'),'href'=>'emails.php', 'title'=>__('Email Addresses'), 'iconclass'=>'emailSettings');

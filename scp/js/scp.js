@@ -1444,4 +1444,34 @@ $(document).ready(function() {
     if (localStorage.getItem('reloadOnce')) {
         localStorage.removeItem('reloadOnce'); // Clear flag
     }
+
 });
+
+$(document).on('click' , '#refreshSummary' , function () {
+
+  var ticket_id = $(this).data('ticket');
+  window.location.href = 'tickets.php?id='+ticket_id+'&key=refresh';
+
+});
+
+$(document).on('click' , '#showModal' , function () {
+ 
+  $('.summary-content').attr('contenteditable', 'true').focus();
+  $('#showModal').addClass('d-none');
+  $('#hideModal').removeClass('d-none');
+  
+
+});
+$(document).on('click' , '#hideModal' , function () {
+ 
+  $('.summary-content').attr('contenteditable', 'false').focus();
+  $('#hideModal').addClass('d-none');
+  $('#showModal').removeClass('d-none');
+});
+$(document).on('click' , '#postThread' , function () {
+  var ticket_id = $(this).data('ticket_id');
+  window.location.href = 'tickets.php?id='+ticket_id+'&key=postThread';
+
+});
+
+
