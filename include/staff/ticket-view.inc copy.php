@@ -621,7 +621,7 @@ if($ticket->isOverdue())
         <td width="50%">
             <table cellspacing="0" cellpadding="4" width="100%" border="0">
                 <tr>
-                    <td width="100"><?php echo __('Management Category');?>:</td>
+                    <td width="100"><?php echo __('Help Topic');?>:</td>
                       <?php
                            if ($role->hasPerm(Ticket::PERM_EDIT)) {?>
                              <td>
@@ -923,7 +923,7 @@ if($ticket->isOverdue())
                 }
                 ?>
                 <tr>
-                    <td width="100"><?php echo __('Management Category');?>:</td>
+                    <td width="100"><?php echo __('Help Topic');?>:</td>
                       <?php
                            if ($role->hasPerm(Ticket::PERM_EDIT)) {?>
                              <td>
@@ -1042,7 +1042,6 @@ if ($counter % 2 != 0) echo '<td colspan="2"></td></tr>';
 ?>
 </tbody>
 
-
     </table>
 <?php } ?>
 <div class="clear"></div>
@@ -1090,19 +1089,20 @@ $tcount = $ticket->getThreadEntries($types) ? $ticket->getThreadEntries($types)-
             echo sprintf(__('Related Tickets List')); ?>
         </a>
         </li>
-            <!-- ANAS Added On Nov 23, 2024 -->
-            <li>
+
+        <li>
         <a id="summrize-thread" href="#summrizeThread">
         <?php
             echo sprintf(__('Summrize Thread')); ?>
         </a>
         </li>
+            <!-- ANAS Added On Nov 23, 2024 -->
 
 </ul>
 
 <div id="ticket_tabs_container">
 <!-- AZ Added On July 02, 2024 -->
-<div id="attachments" class="tab_content" style="display:none;" >
+<div id="attachments" class="tab_content" style="display:none;">
     <?php include_once(CUSTOM_INCLUDE_DIR . 'attachments.php'); ?>
 </div>
 <!-- AZ Added On July 02, 2024 -->
@@ -1111,13 +1111,31 @@ $tcount = $ticket->getThreadEntries($types) ? $ticket->getThreadEntries($types)-
 <div id="ticketlist" class="tab_content" style="display:none;">
     <?php include_once(CUSTOM_INCLUDE_DIR . 'ticketlist.php'); ?>
 </div>
-<!-- AZ Added On July 02, 2024 -->
 
 <div id="summrizeThread" class="tab_content" style="display:none;">
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="exampleModalLabel">Modal Title</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        Your content goes here.
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
     <?php include_once(CUSTOM_INCLUDE_DIR . 'summrizethread.php'); ?>
 </div>
+<!-- AZ Added On July 02, 2024 -->
 
 <div id="ticket_thread" class="tab_content">
+
 
 
 <div class="sticky bar stop actions" id="response_options">
@@ -1384,8 +1402,8 @@ $tcount = $ticket->getThreadEntries($types) ? $ticket->getThreadEntries($types)-
                         rows="9" wrap="soft"
                         class="<?php if ($cfg->isRichTextEnabled()) echo 'richtext';
                             ?> draft draft-delete fullscreen" <?php
-    list($draft, $attrs) = Draft::getDraftAndDataAttrs('ticket.response', $ticket->getId(), $info['response']);
-    echo $attrs; ?>><?php echo ThreadEntryBody::clean($_POST ? $info['response'] : $draft);
+        list($draft, $attrs) = Draft::getDraftAndDataAttrs('ticket.response', $ticket->getId(), $info['response']);
+        echo $attrs; ?>><?php echo ThreadEntryBody::clean($_POST ? $info['response'] : $draft);
                     ?></textarea>
                 </div><!--osta-->
                 <div id="reply_form_attachments" class="attachments">
@@ -1505,8 +1523,8 @@ $tcount = $ticket->getThreadEntries($types) ? $ticket->getThreadEntries($types)-
                         rows="9" wrap="soft"
                         class="<?php if ($cfg->isRichTextEnabled()) echo 'richtext';
                             ?> draft draft-delete fullscreen" <?php
-    list($draft, $attrs) = Draft::getDraftAndDataAttrs('ticket.note', $ticket->getId(), $info['note']);
-    echo $attrs; ?>><?php echo ThreadEntryBody::clean($_POST ? $info['note'] : $draft);
+        list($draft, $attrs) = Draft::getDraftAndDataAttrs('ticket.note', $ticket->getId(), $info['note']);
+        echo $attrs; ?>><?php echo ThreadEntryBody::clean($_POST ? $info['note'] : $draft);
                         ?></textarea>
                 <div class="attachments">
                 <?php
@@ -1553,7 +1571,7 @@ $tcount = $ticket->getThreadEntries($types) ? $ticket->getThreadEntries($types)-
        </p>
    </form>
    <?php } ?>
-
+ 
 </div>
 
 <?php
@@ -1577,7 +1595,6 @@ if ($errors['err'] && isset($_POST['a'])) {
     <div id="msg_warning"><?php echo $warn; ?></div>
 <?php
 } ?>
-
 
 <div style="display:none;" class="dialog" id="print-options">
     <h3><?php echo __('Ticket Print Options');?></h3>

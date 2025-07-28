@@ -1,1 +1,10 @@
-Deny from all
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Allow AJAX requests by checking the "X-Requested-With" header
+    RewriteCond %{HTTP:X-Requested-With} XMLHttpRequest [NC]
+    RewriteRule .* - [L]
+
+    # Deny all other requests (after allowing AJAX)
+    RewriteRule .* - [F]
+</IfModule>

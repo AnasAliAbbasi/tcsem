@@ -1633,7 +1633,57 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 $(document).ready(function () {
- 
+  // $('.dynamic-forms').each(function () {
+  //   const $table = $(this);
+  //   const $rows = $table.find('tr');
+  //   const $newRows = [];
+
+  //   for (let i = 0; i < $rows.length; i++) {
+  //     const $row1 = $rows.eq(i);
+
+  //     // If it's a header row with <th>
+  //     if ($row1.find('th').length > 0) {
+  //       const $header = $('<tr></tr>');
+  //       $row1.find('th').each(function () {
+  //         $header.append($(this).attr('colspan', 12));
+  //       });
+  //       $newRows.push($header);
+  //       continue;
+  //     }
+
+  //     const $tds1 = $row1.find('td');
+
+  //     // Clone to avoid moving original elements directly
+  //     const $tds1Cloned = $tds1.clone();
+  //     $tds1Cloned.each(function () {
+  //       $(this).attr('colspan', 6); // 2 per row = 6 each
+  //     });
+
+  //     let $tds2Cloned = null;
+  //     const $row2 = $rows.eq(i + 1);
+
+  //     if ($row2 && $row2.find('td').length > 0) {
+  //       const $tds2 = $row2.find('td');
+  //       $tds2Cloned = $tds2.clone();
+  //       $tds2Cloned.each(function () {
+  //         $(this).attr('colspan', 6);
+  //       });
+  //       i++; // Skip next row as it's used
+  //     }
+
+  //     const $newRow = $('<tr></tr>').append($tds1Cloned);
+  //     if ($tds2Cloned) {
+  //       $newRow.append($tds2Cloned);
+  //     }
+
+  //     $newRows.push($newRow);
+  //   }
+
+  //   // Clear original rows and insert the modified structure
+  //   $table.find('tr').remove();
+  //   $table.append($newRows);
+  // });
+
   $('.dynamic-forms').each(function () {
     const $table = $(this);
     const $rows = $table.find('tr');
@@ -1698,4 +1748,3 @@ $(document).ready(function () {
 });
 
 });
-

@@ -137,7 +137,8 @@ class StaffNav {
             }
             $this->tabs['tasks'] = array('desc'=>__('Tasks'), 'href'=>'tasks.php', 'title'=>__('Task Queue'));
             $this->tabs['tickets'] = array('desc'=>__('Tickets'),'href'=>'tickets.php','title'=>__('Ticket Queue'));
-
+            $this->tabs['report'] = array('desc'=>__('Reports'),'href'=>'global-search.php','title'=>__('Manage Reports'));
+            
             $this->tabs['kbase'] = array('desc'=>__('Knowledgebase'),'href'=>'kb.php','title'=>__('Knowledgebase'));
             if (!is_null($this->getRegisteredApps()))
                 $this->tabs['apps']=array('desc'=>__('Applications'),'href'=>'apps.php','title'=>__('Applications'));
@@ -166,6 +167,11 @@ class StaffNav {
                     $subnav[] = array('desc' => __('User Directory'), 'href' => 'users.php', 'iconclass' => 'teams');
                     $subnav[] = array('desc' => __('Organizations'), 'href' => 'orgs.php', 'iconclass' => 'departments');
                     break;
+                
+                case 'report':
+                    $subnav[] = array('desc' => __('Global Search'), 'href' => 'includes/staff/global-search.php', 'iconclass' => 'teams');
+                    break;
+            
                 case 'kbase':
                     $subnav[]=array('desc'=>__('FAQs'),'href'=>'kb.php', 'urls'=>array('faq.php'), 'iconclass'=>'kb');
                     if($staff) {
@@ -265,7 +271,7 @@ class AdminNav extends StaffNav{
                 case 'report':
                     $subnav[]=array('desc'=>__('WO States Report'),'href'=>'../custom/report/track-states.php', 'target' => '_blank', 'iconclass'=>'helpTopics');
                     $subnav[]=array('desc'=>__('Open Tickets Report'),'href'=>'../custom/report/open-tickets.php', 'target' => '_blank' ,'iconclass'=>'helpTopics');
-                    $subnav[]=array('desc'=>__('Global Search'),'href'=>'../custom/report/global-search.php', 'target' => '_blank' ,'iconclass'=>'helpTopics');
+                    $subnav[]=array('desc'=>__('Global Search'),'href'=>'global-search.php', 'target' => '_blank' ,'iconclass'=>'helpTopics');
                     break;
                 case 'emails':
                     $subnav[]=array('desc'=>__('Emails'),'href'=>'emails.php', 'title'=>__('Email Addresses'), 'iconclass'=>'emailSettings');

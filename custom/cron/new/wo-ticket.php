@@ -179,7 +179,7 @@ function getDataFromDB()
 {
 
     $today = date('Y-m-d');
-	$today = date('Y-m-d', strtotime($today . ' - 150 days'));
+	$today = date('Y-m-d', strtotime($today . ' - 120 days'));
 
 
     $fields = '_wo.WONumber  as won, _wo.UNIQ_KEY as uniq_key, _wo.SaleType as _wo_saletype, _wo.WOStatus as _wo_status, if(_wo.RepeatOrderFlag = \'Repeat\', "Yes", "No") as _repeat_flag, DATE_FORMAT(_wo.WorkOrderDate, "%d/%m/%y") as _wo_create_date,  DATE_FORMAT(_wo.StartDate, "%d/%m/%y") as _wo_start_date  ,DATE_FORMAT(_wo.DueDate, "%d/%m/%y")  as _wo_due_date, DATE_FORMAT(_wo.ScheduledCompleteDate, "%d/%m/%y")  as _scheduled_complete_date, DATE_FORMAT(_wo.PlannedCompleteDate, "%d/%m/%y") as _wo_complete_planned_date, DATE_FORMAT(_wo.ReleaseDate, "%d/%m/%y") as _release_date, DATE_FORMAT(_wo.CompleteDate, "%d/%m/%y") as _wo_complete_date, _wo.WOQty as _wo_quantity, _wo.WOCompleteQty as _wo_complete_quantity, _wo.WORemainingQty as _wo_balanace_quantity, _wo.Customer as _cus_name, _wo.CustomerPONumber as _cus_po, _mi.ItemPartNo as _cus_pn, _mi.ItemRevision as _cus_pn_rev , CONCAT(_mi.ItemPartNo , " " , _mi.ItemRevision) as _custpn_revision , if(_wo.TestRequiredFlag = \'Test\', "Yes", "No") as _wo_test_flag , if(_wo.SaleType = \'Consignmnt\', "Yes", "No") as _is_consigned , if(_wo.TestRequiredFlag = \'Test\', "Yes", "No") as _test_flag , if(_mi.ItemPartNo Like \'R%\', "LeadedFree", "Leaded") as _lead_requirement , _wo.Clean_Processing as _clean_processing , _wo.Turn_Time as _tt , _wo.RMAFlagCode as _rma_flag , _wo.Customer as _company';

@@ -73,9 +73,8 @@ $faqs = $category->faqs
     ->constrain(array('attachments__inline' => 0))
     ->annotate(array('attachments' => SqlAggregate::COUNT('attachments')));
 if ($faqs->exists(true)) {
-        /* Default VIEW DATA */
 
-   
+        /* Default VIEW DATA */
 
     echo '<div class="row">';
         foreach ($faqs as $faq) {
@@ -130,8 +129,42 @@ if ($faqs->exists(true)) {
 
 /* tree View */
 
-} elseif (!$category->children) {
-    echo '<strong>'.__('Category does not have FAQs').'</strong>';
+} else if ($category->children) {
+    echo '<p/><div class="row">';
+           
+    foreach ($category->children as $c) {
+        echo '<div class="col-md-3">';
+            echo '<div class="card" style="height:270px !important;">';
+                echo '<div class="text-center icon">
+                    <i class="fas fa-folder-open"></i>
+                </div>';
+                echo '<div class="card-title" style="">';
+
+                    echo sprintf('
+                            <a class="truncate" href="kb2.php?cid=%d&sub_cat=1">%2$s</a> ',
+                            $c->getId(),
+                            $c->getLocalName(),
+                            $c->getNumFAQs(),
+                            $c->getVisibilityDescription()
+                            );
+                echo "</div>";
+                echo '<div class="card-message" style="">';
+                    echo sprintf('<p> <strong>Sub-Categories<strong> -  %3$s </p> <p> <strong>Visibility</strong> -  %4$s  </p> ',
+                        $c->getId(),
+                        $c->getLocalName(),
+                        $c->getNumFAQs(),
+                        $c->getVisibilityDescription()
+                    );
+                echo '</div>';
+            echo '</div>';
+        echo '</div>';
+            
+    }
+
+    echo '</div>';
+
+
+
 }
 
 /* tree View */

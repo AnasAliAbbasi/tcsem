@@ -98,3 +98,1865 @@
 [2025-04-24 19:10:12] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor (PK)) 18176 910-PI-0A9335-301 A2]","message":"Auto  (Assembly MPI Valor (PK)) 18176 910-PI-0A9335-301 A2","ip":"192.168.135.105","topicId":15,"won":"18176","uniq_key":"5329E5BDZW","_wo_saletype":"Consignmnt","_wo_status":"Closed","_repeat_flag":"Yes","_wo_create_date":"20\/01\/25","_wo_start_date":"27\/01\/25","_wo_due_date":"11\/02\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"10\/02\/25","_release_date":"10\/02\/25","_wo_complete_date":"10\/02\/25","_wo_quantity":"15","_wo_complete_quantity":"15","_wo_balanace_quantity":"0","_utc_time":"V:\\SEM Customers\\Pacific\\0A9335\\0A9335-301 A2","_cus_name":"PACIFIC INSTRUMENTS","_cus_po":"PO182329","_cus_pn":"910-PI-0A9335-301","_cus_pn_rev":"A2","_custpn_revision":"910-PI-0A9335-301 A2","_wo_test_flag":"No","_is_consigned":"Yes","_test_flag":"No","_lead_requirement":"Leaded","_clean_processing":"Clean","_rma_flag":"0"}] [Ticket ID: 003209] API Response: ->-> 003209;;;;;;;;
 [2025-04-24 19:10:45] [Topic ID: 21] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Valor Processing) 18176 910-PI-0A9335-301 A2]","message":"Auto  (Valor Processing) 18176 910-PI-0A9335-301 A2","ip":"192.168.135.105","topicId":21,"won":"18176","uniq_key":"5329E5BDZW","_wo_saletype":"Consignmnt","_wo_status":"Closed","_repeat_flag":"Yes","_wo_create_date":"20\/01\/25","_wo_start_date":"27\/01\/25","_wo_due_date":"11\/02\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"10\/02\/25","_release_date":"10\/02\/25","_wo_complete_date":"10\/02\/25","_wo_quantity":"15","_wo_complete_quantity":"15","_wo_balanace_quantity":"0","_utc_time":"V:\\SEM Customers\\Pacific\\0A9335\\0A9335-301 A2","_cus_name":"PACIFIC INSTRUMENTS","_cus_po":"PO182329","_cus_pn":"910-PI-0A9335-301","_cus_pn_rev":"A2","_custpn_revision":"910-PI-0A9335-301 A2","_wo_test_flag":"No","_is_consigned":"Yes","_test_flag":"No","_lead_requirement":"Leaded","_clean_processing":"Clean","_rma_flag":"0"}] [Ticket ID: 003210] API Response: ->-> 003210;;;;;;;;
 [2025-04-24 19:11:27] [Topic ID: 30] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Validation (US)) 18176 910-PI-0A9335-301 A2]","message":"Auto  (Assembly MPI Validation (US)) 18176 910-PI-0A9335-301 A2","ip":"192.168.135.105","topicId":30,"won":"18176","uniq_key":"5329E5BDZW","_wo_saletype":"Consignmnt","_wo_status":"Closed","_repeat_flag":"Yes","_wo_create_date":"20\/01\/25","_wo_start_date":"27\/01\/25","_wo_due_date":"11\/02\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"10\/02\/25","_release_date":"10\/02\/25","_wo_complete_date":"10\/02\/25","_wo_quantity":"15","_wo_complete_quantity":"15","_wo_balanace_quantity":"0","_utc_time":"V:\\SEM Customers\\Pacific\\0A9335\\0A9335-301 A2","_cus_name":"PACIFIC INSTRUMENTS","_cus_po":"PO182329","_cus_pn":"910-PI-0A9335-301","_cus_pn_rev":"A2","_custpn_revision":"910-PI-0A9335-301 A2","_wo_test_flag":"No","_is_consigned":"Yes","_test_flag":"No","_lead_requirement":"Leaded","_clean_processing":"Clean","_rma_flag":"0"}] [Ticket ID: 003211] API Response: ->-> 003211;;;;;;;;
+[2025-07-14 21:28:43] [Topic ID: 25] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (BOM Load) 18264 910-SIU-TTF5113A A01]","message":"Auto  (BOM Load) 18264 910-SIU-TTF5113A A01","ip":"192.168.206.105","topicId":25,"won":"18264","uniq_key":"RVSCEZ4A5R","_wo_saletype":"Turnkey","_wo_status":"Cancel","_repeat_flag":"No","_wo_create_date":"14\/02\/25","_wo_start_date":"14\/02\/25","_wo_due_date":"05\/04\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"12\/03\/25","_wo_complete_date":null,"_wo_quantity":"11","_wo_complete_quantity":"0","_wo_balanace_quantity":"11","_cus_name":"DIS Tech America, Inc. (SIU)","_cus_po":"P701644-119834","_cus_pn":"910-SIU-TTF5113A","_cus_pn_rev":"A01","_custpn_revision":"910-SIU-TTF5113A A01","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 6 Days","_rma_flag":"0","_company":"DIS Tech America, Inc. (SIU)","_utc_time":"V:\\DIS-Tech\\FFI\\TTF5113A"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:28:46] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18264 910-SIU-TTF5113A A01]","message":"Auto  (Assembly MPI Valor) 18264 910-SIU-TTF5113A A01","ip":"192.168.206.105","topicId":15,"won":"18264","uniq_key":"RVSCEZ4A5R","_wo_saletype":"Turnkey","_wo_status":"Cancel","_repeat_flag":"No","_wo_create_date":"14\/02\/25","_wo_start_date":"14\/02\/25","_wo_due_date":"05\/04\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"12\/03\/25","_wo_complete_date":null,"_wo_quantity":"11","_wo_complete_quantity":"0","_wo_balanace_quantity":"11","_cus_name":"DIS Tech America, Inc. (SIU)","_cus_po":"P701644-119834","_cus_pn":"910-SIU-TTF5113A","_cus_pn_rev":"A01","_custpn_revision":"910-SIU-TTF5113A A01","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 6 Days","_rma_flag":"0","_company":"DIS Tech America, Inc. (SIU)","_utc_time":"V:\\DIS-Tech\\FFI\\TTF5113A"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:28:50] [Topic ID: 26] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Turnkey Material Management) 18265 910-SIU-TTF5099A A01]","message":"Auto  (Turnkey Material Management) 18265 910-SIU-TTF5099A A01","ip":"192.168.206.105","topicId":26,"won":"18265","uniq_key":"RKP873983F","_wo_saletype":"Turnkey","_wo_status":"Admin Hold","_repeat_flag":"No","_wo_create_date":"14\/02\/25","_wo_start_date":"18\/02\/25","_wo_due_date":"05\/04\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"25\/02\/25","_wo_complete_date":null,"_wo_quantity":"2","_wo_complete_quantity":"0","_wo_balanace_quantity":"2","_cus_name":"DIS Tech America, Inc. (SIU)","_cus_po":"P701634-119624","_cus_pn":"910-SIU-TTF5099A","_cus_pn_rev":"A01","_custpn_revision":"910-SIU-TTF5099A A01","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 6 Days","_rma_flag":"0","_company":"DIS Tech America, Inc. (SIU)","_utc_time":"V:\\DIS-Tech\\FFI\\TTF5099A"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:28:51] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18265 910-SIU-TTF5099A A01]","message":"Auto  (Assembly MPI Valor) 18265 910-SIU-TTF5099A A01","ip":"192.168.206.105","topicId":15,"won":"18265","uniq_key":"RKP873983F","_wo_saletype":"Turnkey","_wo_status":"Admin Hold","_repeat_flag":"No","_wo_create_date":"14\/02\/25","_wo_start_date":"18\/02\/25","_wo_due_date":"05\/04\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"25\/02\/25","_wo_complete_date":null,"_wo_quantity":"2","_wo_complete_quantity":"0","_wo_balanace_quantity":"2","_cus_name":"DIS Tech America, Inc. (SIU)","_cus_po":"P701634-119624","_cus_pn":"910-SIU-TTF5099A","_cus_pn_rev":"A01","_custpn_revision":"910-SIU-TTF5099A A01","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 6 Days","_rma_flag":"0","_company":"DIS Tech America, Inc. (SIU)","_utc_time":"V:\\DIS-Tech\\FFI\\TTF5099A"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:28:56] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18267 910-HED-PMIC_MSP-0016_C27443A A01]","message":"Auto  (Assembly MPI Valor) 18267 910-HED-PMIC_MSP-0016_C27443A A01","ip":"192.168.206.105","topicId":15,"won":"18267","uniq_key":"SDYARSSWDT","_wo_saletype":"Turnkey","_wo_status":"Mfg Hold","_repeat_flag":"No","_wo_create_date":"14\/02\/25","_wo_start_date":"17\/03\/25","_wo_due_date":"25\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"07\/03\/25","_wo_complete_date":null,"_wo_quantity":"2","_wo_complete_quantity":"0","_wo_balanace_quantity":"2","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701645-119823","_cus_pn":"910-HED-PMIC_MSP-0016_C27443A","_cus_pn_rev":"A01","_custpn_revision":"910-HED-PMIC_MSP-0016_C27443A A01","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 7 Days","_rma_flag":"0","_company":"DIS Tech America, Inc. (HED)","_utc_time":"V:\\DIS-Tech\\ECT Cxxxxxx\\C27xxx\\C27443A"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:28:59] [Topic ID: 26] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Turnkey Material Management) 18268 910-SIU-TTF5103A A01]","message":"Auto  (Turnkey Material Management) 18268 910-SIU-TTF5103A A01","ip":"192.168.206.105","topicId":26,"won":"18268","uniq_key":"LTSERXDJIX","_wo_saletype":"Turnkey","_wo_status":"Admin Hold","_repeat_flag":"No","_wo_create_date":"14\/02\/25","_wo_start_date":"18\/02\/25","_wo_due_date":"05\/04\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"04\/03\/25","_wo_complete_date":null,"_wo_quantity":"33","_wo_complete_quantity":"0","_wo_balanace_quantity":"33","_cus_name":"DIS Tech America, Inc. (SIU)","_cus_po":"P701646-119186","_cus_pn":"910-SIU-TTF5103A","_cus_pn_rev":"A01","_custpn_revision":"910-SIU-TTF5103A A01","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 6 Days","_rma_flag":"0","_company":"DIS Tech America, Inc. (SIU)","_utc_time":"V:\\DIS-Tech\\Technoprobe\\TTF5103A"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:00] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18268 910-SIU-TTF5103A A01]","message":"Auto  (Assembly MPI Valor) 18268 910-SIU-TTF5103A A01","ip":"192.168.206.105","topicId":15,"won":"18268","uniq_key":"LTSERXDJIX","_wo_saletype":"Turnkey","_wo_status":"Admin Hold","_repeat_flag":"No","_wo_create_date":"14\/02\/25","_wo_start_date":"18\/02\/25","_wo_due_date":"05\/04\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"04\/03\/25","_wo_complete_date":null,"_wo_quantity":"33","_wo_complete_quantity":"0","_wo_balanace_quantity":"33","_cus_name":"DIS Tech America, Inc. (SIU)","_cus_po":"P701646-119186","_cus_pn":"910-SIU-TTF5103A","_cus_pn_rev":"A01","_custpn_revision":"910-SIU-TTF5103A A01","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 6 Days","_rma_flag":"0","_company":"DIS Tech America, Inc. (SIU)","_utc_time":"V:\\DIS-Tech\\Technoprobe\\TTF5103A"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:06] [Topic ID: 26] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Turnkey Material Management) 18270 910-HED-1128811 C14512B A01]","message":"Auto  (Turnkey Material Management) 18270 910-HED-1128811 C14512B A01","ip":"192.168.206.105","topicId":26,"won":"18270","uniq_key":"HR9WT2K0UH","_wo_saletype":"Turnkey","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"18\/02\/25","_wo_start_date":"18\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"24\/02\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701649-119896","_cus_pn":"910-HED-1128811 C14512B","_cus_pn_rev":"A01","_custpn_revision":"910-HED-1128811 C14512B A01","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:07] [Topic ID: 23] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Test Flag) 18270 910-HED-1128811 C14512B A01]","message":"Auto  (Test Flag) 18270 910-HED-1128811 C14512B A01","ip":"192.168.206.105","topicId":23,"won":"18270","uniq_key":"HR9WT2K0UH","_wo_saletype":"Turnkey","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"18\/02\/25","_wo_start_date":"18\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"24\/02\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701649-119896","_cus_pn":"910-HED-1128811 C14512B","_cus_pn_rev":"A01","_custpn_revision":"910-HED-1128811 C14512B A01","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:10] [Topic ID: 22] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Material Review Consigned) 18271 910-HED-1128811 C14512B A01]","message":"Auto  (Material Review Consigned) 18271 910-HED-1128811 C14512B A01","ip":"192.168.206.105","topicId":22,"won":"18271","uniq_key":"HR9WT2K0UH","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"18\/02\/25","_wo_start_date":"18\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"24\/02\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701650-119897","_cus_pn":"910-HED-1128811 C14512B","_cus_pn_rev":"A01","_custpn_revision":"910-HED-1128811 C14512B A01","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":null,"_tt":null,"_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:11] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18271 910-HED-1128811 C14512B A01]","message":"Auto  (Assembly MPI Valor) 18271 910-HED-1128811 C14512B A01","ip":"192.168.206.105","topicId":15,"won":"18271","uniq_key":"HR9WT2K0UH","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"18\/02\/25","_wo_start_date":"18\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"24\/02\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701650-119897","_cus_pn":"910-HED-1128811 C14512B","_cus_pn_rev":"A01","_custpn_revision":"910-HED-1128811 C14512B A01","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":null,"_tt":null,"_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:12] [Topic ID: 23] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Test Flag) 18271 910-HED-1128811 C14512B A01]","message":"Auto  (Test Flag) 18271 910-HED-1128811 C14512B A01","ip":"192.168.206.105","topicId":23,"won":"18271","uniq_key":"HR9WT2K0UH","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"18\/02\/25","_wo_start_date":"18\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"24\/02\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701650-119897","_cus_pn":"910-HED-1128811 C14512B","_cus_pn_rev":"A01","_custpn_revision":"910-HED-1128811 C14512B A01","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":null,"_tt":null,"_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:14] [Topic ID: 22] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Material Review Consigned) 18272 910-HED-STRX_C14503C A07]","message":"Auto  (Material Review Consigned) 18272 910-HED-STRX_C14503C A07","ip":"192.168.206.105","topicId":22,"won":"18272","uniq_key":"ECA7EM4KDD","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"18\/02\/25","_wo_start_date":"18\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"24\/02\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701651-119899","_cus_pn":"910-HED-STRX_C14503C","_cus_pn_rev":"A07","_custpn_revision":"910-HED-STRX_C14503C A07","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":null,"_tt":null,"_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:16] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18272 910-HED-STRX_C14503C A07]","message":"Auto  (Assembly MPI Valor) 18272 910-HED-STRX_C14503C A07","ip":"192.168.206.105","topicId":15,"won":"18272","uniq_key":"ECA7EM4KDD","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"18\/02\/25","_wo_start_date":"18\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"24\/02\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701651-119899","_cus_pn":"910-HED-STRX_C14503C","_cus_pn_rev":"A07","_custpn_revision":"910-HED-STRX_C14503C A07","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":null,"_tt":null,"_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:17] [Topic ID: 23] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Test Flag) 18272 910-HED-STRX_C14503C A07]","message":"Auto  (Test Flag) 18272 910-HED-STRX_C14503C A07","ip":"192.168.206.105","topicId":23,"won":"18272","uniq_key":"ECA7EM4KDD","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"18\/02\/25","_wo_start_date":"18\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"24\/02\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701651-119899","_cus_pn":"910-HED-STRX_C14503C","_cus_pn_rev":"A07","_custpn_revision":"910-HED-STRX_C14503C A07","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":null,"_tt":null,"_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:18] [Topic ID: 25] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (BOM Load) 18273 910-PI-0A10309-301 A]","message":"Auto  (BOM Load) 18273 910-PI-0A10309-301 A","ip":"192.168.206.105","topicId":25,"won":"18273","uniq_key":"DRPOSF2XV9","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"No","_wo_create_date":"18\/02\/25","_wo_start_date":"11\/03\/25","_wo_due_date":"17\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"17\/03\/25","_release_date":"12\/03\/25","_wo_complete_date":null,"_wo_quantity":"20","_wo_complete_quantity":"0","_wo_balanace_quantity":"20","_cus_name":"PACIFIC INSTRUMENTS","_cus_po":"PO183147","_cus_pn":"910-PI-0A10309-301","_cus_pn_rev":"A","_custpn_revision":"910-PI-0A10309-301 A","_wo_test_flag":"No","_is_consigned":"Yes","_test_flag":"No","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"0","_company":"PACIFIC INSTRUMENTS","_utc_time":"V:\\SEM Customers\\Pacific\\0A10309-301"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:21] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18273 910-PI-0A10309-301 A]","message":"Auto  (Assembly MPI Valor) 18273 910-PI-0A10309-301 A","ip":"192.168.206.105","topicId":15,"won":"18273","uniq_key":"DRPOSF2XV9","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"No","_wo_create_date":"18\/02\/25","_wo_start_date":"11\/03\/25","_wo_due_date":"17\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"17\/03\/25","_release_date":"12\/03\/25","_wo_complete_date":null,"_wo_quantity":"20","_wo_complete_quantity":"0","_wo_balanace_quantity":"20","_cus_name":"PACIFIC INSTRUMENTS","_cus_po":"PO183147","_cus_pn":"910-PI-0A10309-301","_cus_pn_rev":"A","_custpn_revision":"910-PI-0A10309-301 A","_wo_test_flag":"No","_is_consigned":"Yes","_test_flag":"No","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"0","_company":"PACIFIC INSTRUMENTS","_utc_time":"V:\\SEM Customers\\Pacific\\0A10309-301"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:22] [Topic ID: 25] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (BOM Load) 18274 910-PI-0A10307-AOXH-301 A]","message":"Auto  (BOM Load) 18274 910-PI-0A10307-AOXH-301 A","ip":"192.168.206.105","topicId":25,"won":"18274","uniq_key":"4YYGU8G5CZ","_wo_saletype":"Consignmnt","_wo_status":"Mfg Hold","_repeat_flag":"No","_wo_create_date":"19\/02\/25","_wo_start_date":"19\/02\/25","_wo_due_date":"21\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"19\/02\/25","_wo_complete_date":null,"_wo_quantity":"20","_wo_complete_quantity":"0","_wo_balanace_quantity":"20","_cus_name":"PACIFIC INSTRUMENTS","_cus_po":"PO183126","_cus_pn":"910-PI-0A10307-AOXH-301","_cus_pn_rev":"A","_custpn_revision":"910-PI-0A10307-AOXH-301 A","_wo_test_flag":"No","_is_consigned":"Yes","_test_flag":"No","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"0","_company":"PACIFIC INSTRUMENTS","_utc_time":"V:\\SEM Customers\\Pacific\\0A10307-AOXH-301"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:26] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18274 910-PI-0A10307-AOXH-301 A]","message":"Auto  (Assembly MPI Valor) 18274 910-PI-0A10307-AOXH-301 A","ip":"192.168.206.105","topicId":15,"won":"18274","uniq_key":"4YYGU8G5CZ","_wo_saletype":"Consignmnt","_wo_status":"Mfg Hold","_repeat_flag":"No","_wo_create_date":"19\/02\/25","_wo_start_date":"19\/02\/25","_wo_due_date":"21\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"19\/02\/25","_wo_complete_date":null,"_wo_quantity":"20","_wo_complete_quantity":"0","_wo_balanace_quantity":"20","_cus_name":"PACIFIC INSTRUMENTS","_cus_po":"PO183126","_cus_pn":"910-PI-0A10307-AOXH-301","_cus_pn_rev":"A","_custpn_revision":"910-PI-0A10307-AOXH-301 A","_wo_test_flag":"No","_is_consigned":"Yes","_test_flag":"No","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"0","_company":"PACIFIC INSTRUMENTS","_utc_time":"V:\\SEM Customers\\Pacific\\0A10307-AOXH-301"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:36] [Topic ID: 22] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Material Review Consigned) 18278 910-HED-STRX_C14503C A07]","message":"Auto  (Material Review Consigned) 18278 910-HED-STRX_C14503C A07","ip":"192.168.206.105","topicId":22,"won":"18278","uniq_key":"ECA7EM4KDD","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"19\/02\/25","_wo_start_date":"19\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"25\/02\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701654-119902","_cus_pn":"910-HED-STRX_C14503C","_cus_pn_rev":"A07","_custpn_revision":"910-HED-STRX_C14503C A07","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:37] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18278 910-HED-STRX_C14503C A07]","message":"Auto  (Assembly MPI Valor) 18278 910-HED-STRX_C14503C A07","ip":"192.168.206.105","topicId":15,"won":"18278","uniq_key":"ECA7EM4KDD","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"19\/02\/25","_wo_start_date":"19\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"25\/02\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701654-119902","_cus_pn":"910-HED-STRX_C14503C","_cus_pn_rev":"A07","_custpn_revision":"910-HED-STRX_C14503C A07","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:38] [Topic ID: 23] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Test Flag) 18278 910-HED-STRX_C14503C A07]","message":"Auto  (Test Flag) 18278 910-HED-STRX_C14503C A07","ip":"192.168.206.105","topicId":23,"won":"18278","uniq_key":"ECA7EM4KDD","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"19\/02\/25","_wo_start_date":"19\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"25\/02\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701654-119902","_cus_pn":"910-HED-STRX_C14503C","_cus_pn_rev":"A07","_custpn_revision":"910-HED-STRX_C14503C A07","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:40] [Topic ID: 22] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Material Review Consigned) 18279 910-HED-STRX_C14503C A07]","message":"Auto  (Material Review Consigned) 18279 910-HED-STRX_C14503C A07","ip":"192.168.206.105","topicId":22,"won":"18279","uniq_key":"ECA7EM4KDD","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"19\/02\/25","_wo_start_date":"19\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"24\/02\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701655-119903","_cus_pn":"910-HED-STRX_C14503C","_cus_pn_rev":"A07","_custpn_revision":"910-HED-STRX_C14503C A07","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:41] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18279 910-HED-STRX_C14503C A07]","message":"Auto  (Assembly MPI Valor) 18279 910-HED-STRX_C14503C A07","ip":"192.168.206.105","topicId":15,"won":"18279","uniq_key":"ECA7EM4KDD","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"19\/02\/25","_wo_start_date":"19\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"24\/02\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701655-119903","_cus_pn":"910-HED-STRX_C14503C","_cus_pn_rev":"A07","_custpn_revision":"910-HED-STRX_C14503C A07","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:42] [Topic ID: 23] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Test Flag) 18279 910-HED-STRX_C14503C A07]","message":"Auto  (Test Flag) 18279 910-HED-STRX_C14503C A07","ip":"192.168.206.105","topicId":23,"won":"18279","uniq_key":"ECA7EM4KDD","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"19\/02\/25","_wo_start_date":"19\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"24\/02\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701655-119903","_cus_pn":"910-HED-STRX_C14503C","_cus_pn_rev":"A07","_custpn_revision":"910-HED-STRX_C14503C A07","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:47] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18280 910-HCD-RANGER4 FTX16 LB A01]","message":"Auto  (Assembly MPI Valor) 18280 910-HCD-RANGER4 FTX16 LB A01","ip":"192.168.206.105","topicId":15,"won":"18280","uniq_key":"KGOGNGFYYL","_wo_saletype":"Turnkey","_wo_status":"Admin Hold","_repeat_flag":"No","_wo_create_date":"20\/02\/25","_wo_start_date":"20\/02\/25","_wo_due_date":"15\/04\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"07\/03\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HCD)","_cus_po":"701661-119905","_cus_pn":"910-HCD-RANGER4 FTX16 LB","_cus_pn_rev":"A01","_custpn_revision":"910-HCD-RANGER4 FTX16 LB A01","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 7 Days","_rma_flag":"0","_company":"DIS Tech America, Inc. (HCD)","_utc_time":"V:\\DIS-Tech\\Misc\\RANGER4 FTX16 LB"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:48] [Topic ID: 20] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (WO Form) 18281 910-ACK-E-04T ]","message":"Auto  (WO Form) 18281 910-ACK-E-04T ","ip":"192.168.206.105","topicId":20,"won":"18281","uniq_key":"IR15QQKWCE","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"No","_wo_create_date":"20\/02\/25","_wo_start_date":"20\/02\/25","_wo_due_date":"07\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"07\/03\/25","_release_date":"03\/03\/25","_wo_complete_date":null,"_wo_quantity":"500","_wo_complete_quantity":"390","_wo_balanace_quantity":"110","_cus_name":"ACK TECHNOLOGIES, INC.","_cus_po":"76","_cus_pn":"910-ACK-E-04T","_cus_pn_rev":"","_custpn_revision":"910-ACK-E-04T ","_wo_test_flag":"No","_is_consigned":"Yes","_test_flag":"No","_lead_requirement":"Leaded","_clean_processing":null,"_tt":null,"_rma_flag":"0","_company":"ACK TECHNOLOGIES, INC.","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:50] [Topic ID: 22] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Material Review Consigned) 18281 910-ACK-E-04T ]","message":"Auto  (Material Review Consigned) 18281 910-ACK-E-04T ","ip":"192.168.206.105","topicId":22,"won":"18281","uniq_key":"IR15QQKWCE","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"No","_wo_create_date":"20\/02\/25","_wo_start_date":"20\/02\/25","_wo_due_date":"07\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"07\/03\/25","_release_date":"03\/03\/25","_wo_complete_date":null,"_wo_quantity":"500","_wo_complete_quantity":"390","_wo_balanace_quantity":"110","_cus_name":"ACK TECHNOLOGIES, INC.","_cus_po":"76","_cus_pn":"910-ACK-E-04T","_cus_pn_rev":"","_custpn_revision":"910-ACK-E-04T ","_wo_test_flag":"No","_is_consigned":"Yes","_test_flag":"No","_lead_requirement":"Leaded","_clean_processing":null,"_tt":null,"_rma_flag":"0","_company":"ACK TECHNOLOGIES, INC.","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:51] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18281 910-ACK-E-04T ]","message":"Auto  (Assembly MPI Valor) 18281 910-ACK-E-04T ","ip":"192.168.206.105","topicId":15,"won":"18281","uniq_key":"IR15QQKWCE","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"No","_wo_create_date":"20\/02\/25","_wo_start_date":"20\/02\/25","_wo_due_date":"07\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"07\/03\/25","_release_date":"03\/03\/25","_wo_complete_date":null,"_wo_quantity":"500","_wo_complete_quantity":"390","_wo_balanace_quantity":"110","_cus_name":"ACK TECHNOLOGIES, INC.","_cus_po":"76","_cus_pn":"910-ACK-E-04T","_cus_pn_rev":"","_custpn_revision":"910-ACK-E-04T ","_wo_test_flag":"No","_is_consigned":"Yes","_test_flag":"No","_lead_requirement":"Leaded","_clean_processing":null,"_tt":null,"_rma_flag":"0","_company":"ACK TECHNOLOGIES, INC.","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:53] [Topic ID: 22] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Material Review Consigned) 18283 910-SIU-TTF5052A A02]","message":"Auto  (Material Review Consigned) 18283 910-SIU-TTF5052A A02","ip":"192.168.206.105","topicId":22,"won":"18283","uniq_key":"YNK6YQMERX","_wo_saletype":"Consignmnt","_wo_status":"Closed","_repeat_flag":"Yes","_wo_create_date":"20\/02\/25","_wo_start_date":"20\/02\/25","_wo_due_date":"06\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"06\/03\/25","_release_date":"25\/02\/25","_wo_complete_date":"28\/02\/25","_wo_quantity":"1","_wo_complete_quantity":"1","_wo_balanace_quantity":"0","_cus_name":"DIS Tech America, Inc. (SIU)","_cus_po":"701667-119908","_cus_pn":"910-SIU-TTF5052A","_cus_pn_rev":"A02","_custpn_revision":"910-SIU-TTF5052A A02","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (SIU)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:54] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18283 910-SIU-TTF5052A A02]","message":"Auto  (Assembly MPI Valor) 18283 910-SIU-TTF5052A A02","ip":"192.168.206.105","topicId":15,"won":"18283","uniq_key":"YNK6YQMERX","_wo_saletype":"Consignmnt","_wo_status":"Closed","_repeat_flag":"Yes","_wo_create_date":"20\/02\/25","_wo_start_date":"20\/02\/25","_wo_due_date":"06\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"06\/03\/25","_release_date":"25\/02\/25","_wo_complete_date":"28\/02\/25","_wo_quantity":"1","_wo_complete_quantity":"1","_wo_balanace_quantity":"0","_cus_name":"DIS Tech America, Inc. (SIU)","_cus_po":"701667-119908","_cus_pn":"910-SIU-TTF5052A","_cus_pn_rev":"A02","_custpn_revision":"910-SIU-TTF5052A A02","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (SIU)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:55] [Topic ID: 23] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Test Flag) 18283 910-SIU-TTF5052A A02]","message":"Auto  (Test Flag) 18283 910-SIU-TTF5052A A02","ip":"192.168.206.105","topicId":23,"won":"18283","uniq_key":"YNK6YQMERX","_wo_saletype":"Consignmnt","_wo_status":"Closed","_repeat_flag":"Yes","_wo_create_date":"20\/02\/25","_wo_start_date":"20\/02\/25","_wo_due_date":"06\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"06\/03\/25","_release_date":"25\/02\/25","_wo_complete_date":"28\/02\/25","_wo_quantity":"1","_wo_complete_quantity":"1","_wo_balanace_quantity":"0","_cus_name":"DIS Tech America, Inc. (SIU)","_cus_po":"701667-119908","_cus_pn":"910-SIU-TTF5052A","_cus_pn_rev":"A02","_custpn_revision":"910-SIU-TTF5052A A02","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (SIU)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:58] [Topic ID: 22] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Material Review Consigned) 18284 910-HED-1128811 C14512B A01]","message":"Auto  (Material Review Consigned) 18284 910-HED-1128811 C14512B A01","ip":"192.168.206.105","topicId":22,"won":"18284","uniq_key":"HR9WT2K0UH","_wo_saletype":"Consignmnt","_wo_status":"Closed","_repeat_flag":"Yes","_wo_create_date":"20\/02\/25","_wo_start_date":"20\/02\/25","_wo_due_date":"03\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"03\/03\/25","_release_date":"28\/02\/25","_wo_complete_date":"03\/03\/25","_wo_quantity":"1","_wo_complete_quantity":"1","_wo_balanace_quantity":"0","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701693-119901","_cus_pn":"910-HED-1128811 C14512B","_cus_pn_rev":"A01","_custpn_revision":"910-HED-1128811 C14512B A01","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:29:59] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18284 910-HED-1128811 C14512B A01]","message":"Auto  (Assembly MPI Valor) 18284 910-HED-1128811 C14512B A01","ip":"192.168.206.105","topicId":15,"won":"18284","uniq_key":"HR9WT2K0UH","_wo_saletype":"Consignmnt","_wo_status":"Closed","_repeat_flag":"Yes","_wo_create_date":"20\/02\/25","_wo_start_date":"20\/02\/25","_wo_due_date":"03\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"03\/03\/25","_release_date":"28\/02\/25","_wo_complete_date":"03\/03\/25","_wo_quantity":"1","_wo_complete_quantity":"1","_wo_balanace_quantity":"0","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701693-119901","_cus_pn":"910-HED-1128811 C14512B","_cus_pn_rev":"A01","_custpn_revision":"910-HED-1128811 C14512B A01","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:00] [Topic ID: 23] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Test Flag) 18284 910-HED-1128811 C14512B A01]","message":"Auto  (Test Flag) 18284 910-HED-1128811 C14512B A01","ip":"192.168.206.105","topicId":23,"won":"18284","uniq_key":"HR9WT2K0UH","_wo_saletype":"Consignmnt","_wo_status":"Closed","_repeat_flag":"Yes","_wo_create_date":"20\/02\/25","_wo_start_date":"20\/02\/25","_wo_due_date":"03\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"03\/03\/25","_release_date":"28\/02\/25","_wo_complete_date":"03\/03\/25","_wo_quantity":"1","_wo_complete_quantity":"1","_wo_balanace_quantity":"0","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701693-119901","_cus_pn":"910-HED-1128811 C14512B","_cus_pn_rev":"A01","_custpn_revision":"910-HED-1128811 C14512B A01","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:05] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18285 910-HED-MANTRAX FTX16_C14620A A08-D021]","message":"Auto  (Assembly MPI Valor) 18285 910-HED-MANTRAX FTX16_C14620A A08-D021","ip":"192.168.206.105","topicId":15,"won":"18285","uniq_key":"EH33L8XM27","_wo_saletype":"Turnkey","_wo_status":"Mfg Hold","_repeat_flag":"No","_wo_create_date":"21\/02\/25","_wo_start_date":"13\/03\/25","_wo_due_date":"21\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"04\/03\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701660-119904","_cus_pn":"910-HED-MANTRAX FTX16_C14620A","_cus_pn_rev":"A08-D021","_custpn_revision":"910-HED-MANTRAX FTX16_C14620A A08-D021","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 7 Days","_rma_flag":"0","_company":"DIS Tech America, Inc. (HED)","_utc_time":"V:\\DIS-Tech\\ECT Cxxxxxx\\C14xxx\\C146xxx\\C14620A"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:08] [Topic ID: 26] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Turnkey Material Management) 18286 910-SIU-TTF5117A A01]","message":"Auto  (Turnkey Material Management) 18286 910-SIU-TTF5117A A01","ip":"192.168.206.105","topicId":26,"won":"18286","uniq_key":"KJ2Q9I38JF","_wo_saletype":"Turnkey","_wo_status":"Admin Hold","_repeat_flag":"No","_wo_create_date":"21\/02\/25","_wo_start_date":"25\/02\/25","_wo_due_date":"05\/04\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"21\/02\/25","_wo_complete_date":null,"_wo_quantity":"36","_wo_complete_quantity":"0","_wo_balanace_quantity":"36","_cus_name":"DIS Tech America, Inc. (SIU)","_cus_po":"P701668-119511","_cus_pn":"910-SIU-TTF5117A","_cus_pn_rev":"A01","_custpn_revision":"910-SIU-TTF5117A A01","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 6 Days","_rma_flag":"0","_company":"DIS Tech America, Inc. (SIU)","_utc_time":"V:\\DIS-Tech\\Technoprobe\\TTF5117A"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:09] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18286 910-SIU-TTF5117A A01]","message":"Auto  (Assembly MPI Valor) 18286 910-SIU-TTF5117A A01","ip":"192.168.206.105","topicId":15,"won":"18286","uniq_key":"KJ2Q9I38JF","_wo_saletype":"Turnkey","_wo_status":"Admin Hold","_repeat_flag":"No","_wo_create_date":"21\/02\/25","_wo_start_date":"25\/02\/25","_wo_due_date":"05\/04\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"21\/02\/25","_wo_complete_date":null,"_wo_quantity":"36","_wo_complete_quantity":"0","_wo_balanace_quantity":"36","_cus_name":"DIS Tech America, Inc. (SIU)","_cus_po":"P701668-119511","_cus_pn":"910-SIU-TTF5117A","_cus_pn_rev":"A01","_custpn_revision":"910-SIU-TTF5117A A01","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 6 Days","_rma_flag":"0","_company":"DIS Tech America, Inc. (SIU)","_utc_time":"V:\\DIS-Tech\\Technoprobe\\TTF5117A"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:12] [Topic ID: 22] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Material Review Consigned) 18287 910-HED-1128811 C14512B A01]","message":"Auto  (Material Review Consigned) 18287 910-HED-1128811 C14512B A01","ip":"192.168.206.105","topicId":22,"won":"18287","uniq_key":"HR9WT2K0UH","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"24\/02\/25","_wo_start_date":"24\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"25\/02\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701673-119911","_cus_pn":"910-HED-1128811 C14512B","_cus_pn_rev":"A01","_custpn_revision":"910-HED-1128811 C14512B A01","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:13] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18287 910-HED-1128811 C14512B A01]","message":"Auto  (Assembly MPI Valor) 18287 910-HED-1128811 C14512B A01","ip":"192.168.206.105","topicId":15,"won":"18287","uniq_key":"HR9WT2K0UH","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"24\/02\/25","_wo_start_date":"24\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"25\/02\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701673-119911","_cus_pn":"910-HED-1128811 C14512B","_cus_pn_rev":"A01","_custpn_revision":"910-HED-1128811 C14512B A01","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:14] [Topic ID: 23] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Test Flag) 18287 910-HED-1128811 C14512B A01]","message":"Auto  (Test Flag) 18287 910-HED-1128811 C14512B A01","ip":"192.168.206.105","topicId":23,"won":"18287","uniq_key":"HR9WT2K0UH","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"24\/02\/25","_wo_start_date":"24\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"25\/02\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701673-119911","_cus_pn":"910-HED-1128811 C14512B","_cus_pn_rev":"A01","_custpn_revision":"910-HED-1128811 C14512B A01","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:16] [Topic ID: 22] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Material Review Consigned) 18288 910-HED-1128811 C14512B A01]","message":"Auto  (Material Review Consigned) 18288 910-HED-1128811 C14512B A01","ip":"192.168.206.105","topicId":22,"won":"18288","uniq_key":"HR9WT2K0UH","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"24\/02\/25","_wo_start_date":"24\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"28\/02\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701674-119912","_cus_pn":"910-HED-1128811 C14512B","_cus_pn_rev":"A01","_custpn_revision":"910-HED-1128811 C14512B A01","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:18] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18288 910-HED-1128811 C14512B A01]","message":"Auto  (Assembly MPI Valor) 18288 910-HED-1128811 C14512B A01","ip":"192.168.206.105","topicId":15,"won":"18288","uniq_key":"HR9WT2K0UH","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"24\/02\/25","_wo_start_date":"24\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"28\/02\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701674-119912","_cus_pn":"910-HED-1128811 C14512B","_cus_pn_rev":"A01","_custpn_revision":"910-HED-1128811 C14512B A01","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:19] [Topic ID: 23] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Test Flag) 18288 910-HED-1128811 C14512B A01]","message":"Auto  (Test Flag) 18288 910-HED-1128811 C14512B A01","ip":"192.168.206.105","topicId":23,"won":"18288","uniq_key":"HR9WT2K0UH","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"24\/02\/25","_wo_start_date":"24\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"28\/02\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701674-119912","_cus_pn":"910-HED-1128811 C14512B","_cus_pn_rev":"A01","_custpn_revision":"910-HED-1128811 C14512B A01","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:21] [Topic ID: 22] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Material Review Consigned) 18289 910-HED-1148200_C14642A A02]","message":"Auto  (Material Review Consigned) 18289 910-HED-1148200_C14642A A02","ip":"192.168.206.105","topicId":22,"won":"18289","uniq_key":"TQBHVPN4WQ","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"24\/02\/25","_wo_start_date":"24\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"25\/02\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701675-119910","_cus_pn":"910-HED-1148200_C14642A","_cus_pn_rev":"A02","_custpn_revision":"910-HED-1148200_C14642A A02","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:22] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18289 910-HED-1148200_C14642A A02]","message":"Auto  (Assembly MPI Valor) 18289 910-HED-1148200_C14642A A02","ip":"192.168.206.105","topicId":15,"won":"18289","uniq_key":"TQBHVPN4WQ","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"24\/02\/25","_wo_start_date":"24\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"25\/02\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701675-119910","_cus_pn":"910-HED-1148200_C14642A","_cus_pn_rev":"A02","_custpn_revision":"910-HED-1148200_C14642A A02","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:23] [Topic ID: 23] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Test Flag) 18289 910-HED-1148200_C14642A A02]","message":"Auto  (Test Flag) 18289 910-HED-1148200_C14642A A02","ip":"192.168.206.105","topicId":23,"won":"18289","uniq_key":"TQBHVPN4WQ","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"24\/02\/25","_wo_start_date":"24\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"25\/02\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701675-119910","_cus_pn":"910-HED-1148200_C14642A","_cus_pn_rev":"A02","_custpn_revision":"910-HED-1148200_C14642A A02","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:28] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18290 910-HED-TEA2324 TREVITA_C14638B A01-D020]","message":"Auto  (Assembly MPI Valor) 18290 910-HED-TEA2324 TREVITA_C14638B A01-D020","ip":"192.168.206.105","topicId":15,"won":"18290","uniq_key":"MUIHPTW1IX","_wo_saletype":"Turnkey","_wo_status":"Mfg Hold","_repeat_flag":"No","_wo_create_date":"24\/02\/25","_wo_start_date":"24\/02\/25","_wo_due_date":"16\/04\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"24\/02\/25","_wo_complete_date":null,"_wo_quantity":"2","_wo_complete_quantity":"0","_wo_balanace_quantity":"2","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701685-119894","_cus_pn":"910-HED-TEA2324 TREVITA_C14638B","_cus_pn_rev":"A01-D020","_custpn_revision":"910-HED-TEA2324 TREVITA_C14638B A01-D020","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 7 Days","_rma_flag":"0","_company":"DIS Tech America, Inc. (HED)","_utc_time":"V:\\DIS-Tech\\ECT Cxxxxxx\\C14xxx\\C146xxx\\C14638B"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:29] [Topic ID: 25] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (BOM Load) 18291 910-SIU-TTF5050A A03]","message":"Auto  (BOM Load) 18291 910-SIU-TTF5050A A03","ip":"192.168.206.105","topicId":25,"won":"18291","uniq_key":"L8YQOMCWWY","_wo_saletype":"Turnkey","_wo_status":"Cancel","_repeat_flag":"No","_wo_create_date":"25\/02\/25","_wo_start_date":"25\/02\/25","_wo_due_date":"03\/05\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"12\/03\/25","_wo_complete_date":null,"_wo_quantity":"27","_wo_complete_quantity":"0","_wo_balanace_quantity":"27","_cus_name":"DIS Tech America, Inc. (SIU)","_cus_po":"P701692-119923","_cus_pn":"910-SIU-TTF5050A","_cus_pn_rev":"A03","_custpn_revision":"910-SIU-TTF5050A A03","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 6 Days","_rma_flag":"0","_company":"DIS Tech America, Inc. (SIU)","_utc_time":"V:\\DIS-Tech\\Technoprobe\\TTF5050A"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:33] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18291 910-SIU-TTF5050A A03]","message":"Auto  (Assembly MPI Valor) 18291 910-SIU-TTF5050A A03","ip":"192.168.206.105","topicId":15,"won":"18291","uniq_key":"L8YQOMCWWY","_wo_saletype":"Turnkey","_wo_status":"Cancel","_repeat_flag":"No","_wo_create_date":"25\/02\/25","_wo_start_date":"25\/02\/25","_wo_due_date":"03\/05\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"12\/03\/25","_wo_complete_date":null,"_wo_quantity":"27","_wo_complete_quantity":"0","_wo_balanace_quantity":"27","_cus_name":"DIS Tech America, Inc. (SIU)","_cus_po":"P701692-119923","_cus_pn":"910-SIU-TTF5050A","_cus_pn_rev":"A03","_custpn_revision":"910-SIU-TTF5050A A03","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 6 Days","_rma_flag":"0","_company":"DIS Tech America, Inc. (SIU)","_utc_time":"V:\\DIS-Tech\\Technoprobe\\TTF5050A"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:35] [Topic ID: 22] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Material Review Consigned) 18292 910-HED-302072996_C14396B A01]","message":"Auto  (Material Review Consigned) 18292 910-HED-302072996_C14396B A01","ip":"192.168.206.105","topicId":22,"won":"18292","uniq_key":"68HDCYVRY3","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"25\/02\/25","_wo_start_date":"25\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"04\/03\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701690-119920","_cus_pn":"910-HED-302072996_C14396B","_cus_pn_rev":"A01","_custpn_revision":"910-HED-302072996_C14396B A01","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:37] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18292 910-HED-302072996_C14396B A01]","message":"Auto  (Assembly MPI Valor) 18292 910-HED-302072996_C14396B A01","ip":"192.168.206.105","topicId":15,"won":"18292","uniq_key":"68HDCYVRY3","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"25\/02\/25","_wo_start_date":"25\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"04\/03\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701690-119920","_cus_pn":"910-HED-302072996_C14396B","_cus_pn_rev":"A01","_custpn_revision":"910-HED-302072996_C14396B A01","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:38] [Topic ID: 23] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Test Flag) 18292 910-HED-302072996_C14396B A01]","message":"Auto  (Test Flag) 18292 910-HED-302072996_C14396B A01","ip":"192.168.206.105","topicId":23,"won":"18292","uniq_key":"68HDCYVRY3","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"25\/02\/25","_wo_start_date":"25\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"04\/03\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701690-119920","_cus_pn":"910-HED-302072996_C14396B","_cus_pn_rev":"A01","_custpn_revision":"910-HED-302072996_C14396B A01","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:40] [Topic ID: 22] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Material Review Consigned) 18293 910-HED-302072996_C14396B A01]","message":"Auto  (Material Review Consigned) 18293 910-HED-302072996_C14396B A01","ip":"192.168.206.105","topicId":22,"won":"18293","uniq_key":"68HDCYVRY3","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"25\/02\/25","_wo_start_date":"25\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"28\/02\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701691-119921","_cus_pn":"910-HED-302072996_C14396B","_cus_pn_rev":"A01","_custpn_revision":"910-HED-302072996_C14396B A01","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:41] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18293 910-HED-302072996_C14396B A01]","message":"Auto  (Assembly MPI Valor) 18293 910-HED-302072996_C14396B A01","ip":"192.168.206.105","topicId":15,"won":"18293","uniq_key":"68HDCYVRY3","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"25\/02\/25","_wo_start_date":"25\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"28\/02\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701691-119921","_cus_pn":"910-HED-302072996_C14396B","_cus_pn_rev":"A01","_custpn_revision":"910-HED-302072996_C14396B A01","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:42] [Topic ID: 23] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Test Flag) 18293 910-HED-302072996_C14396B A01]","message":"Auto  (Test Flag) 18293 910-HED-302072996_C14396B A01","ip":"192.168.206.105","topicId":23,"won":"18293","uniq_key":"68HDCYVRY3","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"25\/02\/25","_wo_start_date":"25\/02\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"28\/02\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701691-119921","_cus_pn":"910-HED-302072996_C14396B","_cus_pn_rev":"A01","_custpn_revision":"910-HED-302072996_C14396B A01","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:46] [Topic ID: 26] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Turnkey Material Management) 18294 910-HED-8VBA93DD-058 C13865B A01]","message":"Auto  (Turnkey Material Management) 18294 910-HED-8VBA93DD-058 C13865B A01","ip":"192.168.206.105","topicId":26,"won":"18294","uniq_key":"CEXE0EANYY","_wo_saletype":"Turnkey","_wo_status":"Mfg Hold","_repeat_flag":"No","_wo_create_date":"26\/02\/25","_wo_start_date":"26\/02\/25","_wo_due_date":"31\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"26\/02\/25","_wo_complete_date":null,"_wo_quantity":"2","_wo_complete_quantity":"0","_wo_balanace_quantity":"2","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701694-119922","_cus_pn":"910-HED-8VBA93DD-058 C13865B","_cus_pn_rev":"A01","_custpn_revision":"910-HED-8VBA93DD-058 C13865B A01","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 7 Days","_rma_flag":"0","_company":"DIS Tech America, Inc. (HED)","_utc_time":"V:\\DIS-Tech\\ECT Cxxxxxx\\C13xxx\\C138xx\\C13865B"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:47] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18294 910-HED-8VBA93DD-058 C13865B A01]","message":"Auto  (Assembly MPI Valor) 18294 910-HED-8VBA93DD-058 C13865B A01","ip":"192.168.206.105","topicId":15,"won":"18294","uniq_key":"CEXE0EANYY","_wo_saletype":"Turnkey","_wo_status":"Mfg Hold","_repeat_flag":"No","_wo_create_date":"26\/02\/25","_wo_start_date":"26\/02\/25","_wo_due_date":"31\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"26\/02\/25","_wo_complete_date":null,"_wo_quantity":"2","_wo_complete_quantity":"0","_wo_balanace_quantity":"2","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701694-119922","_cus_pn":"910-HED-8VBA93DD-058 C13865B","_cus_pn_rev":"A01","_custpn_revision":"910-HED-8VBA93DD-058 C13865B A01","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 7 Days","_rma_flag":"0","_company":"DIS Tech America, Inc. (HED)","_utc_time":"V:\\DIS-Tech\\ECT Cxxxxxx\\C13xxx\\C138xx\\C13865B"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:50] [Topic ID: 26] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Turnkey Material Management) 18295 910-SIU-TTF5103A A01]","message":"Auto  (Turnkey Material Management) 18295 910-SIU-TTF5103A A01","ip":"192.168.206.105","topicId":26,"won":"18295","uniq_key":"LTSERXDJIX","_wo_saletype":"Turnkey","_wo_status":"Admin Hold","_repeat_flag":"Yes","_wo_create_date":"26\/02\/25","_wo_start_date":"04\/03\/25","_wo_due_date":"10\/05\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"26\/02\/25","_wo_complete_date":null,"_wo_quantity":"5","_wo_complete_quantity":"0","_wo_balanace_quantity":"5","_cus_name":"DIS Tech America, Inc. (SIU)","_cus_po":"P701706-119924","_cus_pn":"910-SIU-TTF5103A","_cus_pn_rev":"A01","_custpn_revision":"910-SIU-TTF5103A A01","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 6 Days","_rma_flag":"0","_company":"DIS Tech America, Inc. (SIU)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:51] [Topic ID: 23] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Test Flag) 18295 910-SIU-TTF5103A A01]","message":"Auto  (Test Flag) 18295 910-SIU-TTF5103A A01","ip":"192.168.206.105","topicId":23,"won":"18295","uniq_key":"LTSERXDJIX","_wo_saletype":"Turnkey","_wo_status":"Admin Hold","_repeat_flag":"Yes","_wo_create_date":"26\/02\/25","_wo_start_date":"04\/03\/25","_wo_due_date":"10\/05\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"26\/02\/25","_wo_complete_date":null,"_wo_quantity":"5","_wo_complete_quantity":"0","_wo_balanace_quantity":"5","_cus_name":"DIS Tech America, Inc. (SIU)","_cus_po":"P701706-119924","_cus_pn":"910-SIU-TTF5103A","_cus_pn_rev":"A01","_custpn_revision":"910-SIU-TTF5103A A01","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 6 Days","_rma_flag":"0","_company":"DIS Tech America, Inc. (SIU)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:54] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18296 910-DT-D11-103553-C C1]","message":"Auto  (Assembly MPI Valor) 18296 910-DT-D11-103553-C C1","ip":"192.168.206.105","topicId":15,"won":"18296","uniq_key":"9AJ1ONK8LA","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"26\/02\/25","_wo_start_date":"06\/03\/25","_wo_due_date":"11\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"10\/03\/25","_release_date":"06\/03\/25","_wo_complete_date":null,"_wo_quantity":"35","_wo_complete_quantity":"20","_wo_balanace_quantity":"15","_cus_name":"DYNAMIC TEST SOLUTIONS AMERICA Inc.","_cus_po":"US2502-0096 REV1","_cus_pn":"910-DT-D11-103553-C","_cus_pn_rev":"C1","_custpn_revision":"910-DT-D11-103553-C C1","_wo_test_flag":"No","_is_consigned":"Yes","_test_flag":"No","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 4 Days","_rma_flag":"0","_company":"DYNAMIC TEST SOLUTIONS AMERICA Inc.","_utc_time":"V:\\SEM Customers\\Dynamic Test Sol\\D11\\D11-103553-C"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:57] [Topic ID: 26] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Turnkey Material Management) 18297 910-CPS-90-2590 F]","message":"Auto  (Turnkey Material Management) 18297 910-CPS-90-2590 F","ip":"192.168.206.105","topicId":26,"won":"18297","uniq_key":"WSRLFKTQKI","_wo_saletype":"Turnkey","_wo_status":"Closed","_repeat_flag":"Yes","_wo_create_date":"26\/02\/25","_wo_start_date":"26\/02\/25","_wo_due_date":"26\/03\/26","_scheduled_complete_date":null,"_wo_complete_planned_date":"03\/03\/25","_release_date":"03\/03\/25","_wo_complete_date":"03\/03\/25","_wo_quantity":"10","_wo_complete_quantity":"10","_wo_balanace_quantity":"0","_cus_name":"CONCEPT PART SOLUTIONS, INC.","_cus_po":"0302-115","_cus_pn":"910-CPS-90-2590","_cus_pn_rev":"F","_custpn_revision":"910-CPS-90-2590 F","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 10 Days","_rma_flag":"0","_company":"CONCEPT PART SOLUTIONS, INC.","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:30:59] [Topic ID: 23] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Test Flag) 18297 910-CPS-90-2590 F]","message":"Auto  (Test Flag) 18297 910-CPS-90-2590 F","ip":"192.168.206.105","topicId":23,"won":"18297","uniq_key":"WSRLFKTQKI","_wo_saletype":"Turnkey","_wo_status":"Closed","_repeat_flag":"Yes","_wo_create_date":"26\/02\/25","_wo_start_date":"26\/02\/25","_wo_due_date":"26\/03\/26","_scheduled_complete_date":null,"_wo_complete_planned_date":"03\/03\/25","_release_date":"03\/03\/25","_wo_complete_date":"03\/03\/25","_wo_quantity":"10","_wo_complete_quantity":"10","_wo_balanace_quantity":"0","_cus_name":"CONCEPT PART SOLUTIONS, INC.","_cus_po":"0302-115","_cus_pn":"910-CPS-90-2590","_cus_pn_rev":"F","_custpn_revision":"910-CPS-90-2590 F","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 10 Days","_rma_flag":"0","_company":"CONCEPT PART SOLUTIONS, INC.","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:31:01] [Topic ID: 25] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (BOM Load) 18298 910-HED-1128811 C14512B A01-D018]","message":"Auto  (BOM Load) 18298 910-HED-1128811 C14512B A01-D018","ip":"192.168.206.105","topicId":25,"won":"18298","uniq_key":"CUGCTLZSKT","_wo_saletype":"Turnkey","_wo_status":"Open","_repeat_flag":"No","_wo_create_date":"26\/02\/25","_wo_start_date":"10\/03\/25","_wo_due_date":"14\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"14\/03\/25","_release_date":"10\/03\/25","_wo_complete_date":null,"_wo_quantity":"2","_wo_complete_quantity":"1","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701738-119897","_cus_pn":"910-HED-1128811 C14512B","_cus_pn_rev":"A01-D018","_custpn_revision":"910-HED-1128811 C14512B A01-D018","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":null,"_tt":null,"_rma_flag":"0","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:31:02] [Topic ID: 20] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (WO Form) 18298 910-HED-1128811 C14512B A01-D018]","message":"Auto  (WO Form) 18298 910-HED-1128811 C14512B A01-D018","ip":"192.168.206.105","topicId":20,"won":"18298","uniq_key":"CUGCTLZSKT","_wo_saletype":"Turnkey","_wo_status":"Open","_repeat_flag":"No","_wo_create_date":"26\/02\/25","_wo_start_date":"10\/03\/25","_wo_due_date":"14\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"14\/03\/25","_release_date":"10\/03\/25","_wo_complete_date":null,"_wo_quantity":"2","_wo_complete_quantity":"1","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701738-119897","_cus_pn":"910-HED-1128811 C14512B","_cus_pn_rev":"A01-D018","_custpn_revision":"910-HED-1128811 C14512B A01-D018","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":null,"_tt":null,"_rma_flag":"0","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:31:04] [Topic ID: 26] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Turnkey Material Management) 18298 910-HED-1128811 C14512B A01-D018]","message":"Auto  (Turnkey Material Management) 18298 910-HED-1128811 C14512B A01-D018","ip":"192.168.206.105","topicId":26,"won":"18298","uniq_key":"CUGCTLZSKT","_wo_saletype":"Turnkey","_wo_status":"Open","_repeat_flag":"No","_wo_create_date":"26\/02\/25","_wo_start_date":"10\/03\/25","_wo_due_date":"14\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"14\/03\/25","_release_date":"10\/03\/25","_wo_complete_date":null,"_wo_quantity":"2","_wo_complete_quantity":"1","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701738-119897","_cus_pn":"910-HED-1128811 C14512B","_cus_pn_rev":"A01-D018","_custpn_revision":"910-HED-1128811 C14512B A01-D018","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":null,"_tt":null,"_rma_flag":"0","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:31:05] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18298 910-HED-1128811 C14512B A01-D018]","message":"Auto  (Assembly MPI Valor) 18298 910-HED-1128811 C14512B A01-D018","ip":"192.168.206.105","topicId":15,"won":"18298","uniq_key":"CUGCTLZSKT","_wo_saletype":"Turnkey","_wo_status":"Open","_repeat_flag":"No","_wo_create_date":"26\/02\/25","_wo_start_date":"10\/03\/25","_wo_due_date":"14\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"14\/03\/25","_release_date":"10\/03\/25","_wo_complete_date":null,"_wo_quantity":"2","_wo_complete_quantity":"1","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701738-119897","_cus_pn":"910-HED-1128811 C14512B","_cus_pn_rev":"A01-D018","_custpn_revision":"910-HED-1128811 C14512B A01-D018","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":null,"_tt":null,"_rma_flag":"0","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:31:08] [Topic ID: 22] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Material Review Consigned) 18299 910-DT-D10-104926-A A1]","message":"Auto  (Material Review Consigned) 18299 910-DT-D10-104926-A A1","ip":"192.168.206.105","topicId":22,"won":"18299","uniq_key":"EERMVFN7D1","_wo_saletype":"Consignmnt","_wo_status":"Closed","_repeat_flag":"Yes","_wo_create_date":"27\/02\/25","_wo_start_date":"27\/02\/25","_wo_due_date":"05\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"05\/03\/25","_release_date":"27\/02\/25","_wo_complete_date":"03\/03\/25","_wo_quantity":"1","_wo_complete_quantity":"1","_wo_balanace_quantity":"0","_cus_name":"DYNAMIC TEST SOLUTIONS AMERICA Inc.","_cus_po":"US2502-0101","_cus_pn":"910-DT-D10-104926-A","_cus_pn_rev":"A1","_custpn_revision":"910-DT-D10-104926-A A1","_wo_test_flag":"No","_is_consigned":"Yes","_test_flag":"No","_lead_requirement":"Leaded","_clean_processing":null,"_tt":null,"_rma_flag":"0","_company":"DYNAMIC TEST SOLUTIONS AMERICA Inc.","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:31:09] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18299 910-DT-D10-104926-A A1]","message":"Auto  (Assembly MPI Valor) 18299 910-DT-D10-104926-A A1","ip":"192.168.206.105","topicId":15,"won":"18299","uniq_key":"EERMVFN7D1","_wo_saletype":"Consignmnt","_wo_status":"Closed","_repeat_flag":"Yes","_wo_create_date":"27\/02\/25","_wo_start_date":"27\/02\/25","_wo_due_date":"05\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"05\/03\/25","_release_date":"27\/02\/25","_wo_complete_date":"03\/03\/25","_wo_quantity":"1","_wo_complete_quantity":"1","_wo_balanace_quantity":"0","_cus_name":"DYNAMIC TEST SOLUTIONS AMERICA Inc.","_cus_po":"US2502-0101","_cus_pn":"910-DT-D10-104926-A","_cus_pn_rev":"A1","_custpn_revision":"910-DT-D10-104926-A A1","_wo_test_flag":"No","_is_consigned":"Yes","_test_flag":"No","_lead_requirement":"Leaded","_clean_processing":null,"_tt":null,"_rma_flag":"0","_company":"DYNAMIC TEST SOLUTIONS AMERICA Inc.","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:31:13] [Topic ID: 26] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Turnkey Material Management) 18300 910-SIU-TTF5090B A01]","message":"Auto  (Turnkey Material Management) 18300 910-SIU-TTF5090B A01","ip":"192.168.206.105","topicId":26,"won":"18300","uniq_key":"PU0X2F3UR1","_wo_saletype":"Turnkey","_wo_status":"Closed","_repeat_flag":"No","_wo_create_date":"27\/02\/25","_wo_start_date":"07\/03\/25","_wo_due_date":"10\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"10\/03\/25","_release_date":"07\/03\/25","_wo_complete_date":"10\/03\/25","_wo_quantity":"2","_wo_complete_quantity":"2","_wo_balanace_quantity":"0","_cus_name":"DIS Tech America, Inc. (SIU)","_cus_po":"701713-119907","_cus_pn":"910-SIU-TTF5090B","_cus_pn_rev":"A01","_custpn_revision":"910-SIU-TTF5090B A01","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 6 Days","_rma_flag":"0","_company":"DIS Tech America, Inc. (SIU)","_utc_time":"V:\\DIS-Tech\\Intel\\TTF5090B"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:31:14] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18300 910-SIU-TTF5090B A01]","message":"Auto  (Assembly MPI Valor) 18300 910-SIU-TTF5090B A01","ip":"192.168.206.105","topicId":15,"won":"18300","uniq_key":"PU0X2F3UR1","_wo_saletype":"Turnkey","_wo_status":"Closed","_repeat_flag":"No","_wo_create_date":"27\/02\/25","_wo_start_date":"07\/03\/25","_wo_due_date":"10\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"10\/03\/25","_release_date":"07\/03\/25","_wo_complete_date":"10\/03\/25","_wo_quantity":"2","_wo_complete_quantity":"2","_wo_balanace_quantity":"0","_cus_name":"DIS Tech America, Inc. (SIU)","_cus_po":"701713-119907","_cus_pn":"910-SIU-TTF5090B","_cus_pn_rev":"A01","_custpn_revision":"910-SIU-TTF5090B A01","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 6 Days","_rma_flag":"0","_company":"DIS Tech America, Inc. (SIU)","_utc_time":"V:\\DIS-Tech\\Intel\\TTF5090B"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:31:19] [Topic ID: 26] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Turnkey Material Management) 18301 940-HED-1122174 C14583A KIT]","message":"Auto  (Turnkey Material Management) 18301 940-HED-1122174 C14583A KIT","ip":"192.168.206.105","topicId":26,"won":"18301","uniq_key":"AXNEIU8QSA","_wo_saletype":"Turnkey","_wo_status":"Closed","_repeat_flag":"No","_wo_create_date":"28\/02\/25","_wo_start_date":"04\/03\/25","_wo_due_date":"04\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"04\/03\/25","_release_date":"04\/03\/25","_wo_complete_date":"04\/03\/25","_wo_quantity":"2","_wo_complete_quantity":"2","_wo_balanace_quantity":"0","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"700179-118042","_cus_pn":"940-HED-1122174 C14583A","_cus_pn_rev":"KIT","_custpn_revision":"940-HED-1122174 C14583A KIT","_wo_test_flag":"No","_is_consigned":"No","_test_flag":"No","_lead_requirement":"Leaded","_clean_processing":null,"_tt":null,"_rma_flag":"0","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:31:20] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18301 940-HED-1122174 C14583A KIT]","message":"Auto  (Assembly MPI Valor) 18301 940-HED-1122174 C14583A KIT","ip":"192.168.206.105","topicId":15,"won":"18301","uniq_key":"AXNEIU8QSA","_wo_saletype":"Turnkey","_wo_status":"Closed","_repeat_flag":"No","_wo_create_date":"28\/02\/25","_wo_start_date":"04\/03\/25","_wo_due_date":"04\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"04\/03\/25","_release_date":"04\/03\/25","_wo_complete_date":"04\/03\/25","_wo_quantity":"2","_wo_complete_quantity":"2","_wo_balanace_quantity":"0","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"700179-118042","_cus_pn":"940-HED-1122174 C14583A","_cus_pn_rev":"KIT","_custpn_revision":"940-HED-1122174 C14583A KIT","_wo_test_flag":"No","_is_consigned":"No","_test_flag":"No","_lead_requirement":"Leaded","_clean_processing":null,"_tt":null,"_rma_flag":"0","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:31:25] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18302 910-HED-8VBSP372-170_C14222A A01]","message":"Auto  (Assembly MPI Valor) 18302 910-HED-8VBSP372-170_C14222A A01","ip":"192.168.206.105","topicId":15,"won":"18302","uniq_key":"M544498D1D","_wo_saletype":"Turnkey","_wo_status":"Mfg Hold","_repeat_flag":"No","_wo_create_date":"28\/02\/25","_wo_start_date":"28\/02\/25","_wo_due_date":"04\/04\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"28\/02\/25","_wo_complete_date":null,"_wo_quantity":"10","_wo_complete_quantity":"0","_wo_balanace_quantity":"10","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701719-119930","_cus_pn":"910-HED-8VBSP372-170_C14222A","_cus_pn_rev":"A01","_custpn_revision":"910-HED-8VBSP372-170_C14222A A01","_wo_test_flag":"No","_is_consigned":"No","_test_flag":"No","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"0","_company":"DIS Tech America, Inc. (HED)","_utc_time":"V:\\DIS-Tech\\ECT Cxxxxxx\\C14xxx\\C142xxx\\C14222A"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:31:30] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18303 910-SIU-TTF5106A A02]","message":"Auto  (Assembly MPI Valor) 18303 910-SIU-TTF5106A A02","ip":"192.168.206.105","topicId":15,"won":"18303","uniq_key":"FXCP18YOR8","_wo_saletype":"Turnkey","_wo_status":"Mfg Hold","_repeat_flag":"No","_wo_create_date":"03\/03\/25","_wo_start_date":"03\/03\/25","_wo_due_date":"03\/04\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"04\/03\/25","_wo_complete_date":null,"_wo_quantity":"28","_wo_complete_quantity":"0","_wo_balanace_quantity":"28","_cus_name":"DIS Tech America, Inc. (SIU)","_cus_po":"701724-119935","_cus_pn":"910-SIU-TTF5106A","_cus_pn_rev":"A02","_custpn_revision":"910-SIU-TTF5106A A02","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 6 Days","_rma_flag":"0","_company":"DIS Tech America, Inc. (SIU)","_utc_time":"V:\\DIS-Tech\\Technoprobe\\TTF5106A"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:31:33] [Topic ID: 26] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Turnkey Material Management) 18304 910-HED-C14503_A A06]","message":"Auto  (Turnkey Material Management) 18304 910-HED-C14503_A A06","ip":"192.168.206.105","topicId":26,"won":"18304","uniq_key":"2ANX3KL7W7","_wo_saletype":"Turnkey","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"03\/03\/25","_wo_start_date":"03\/03\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"04\/03\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701723-119936","_cus_pn":"910-HED-C14503_A","_cus_pn_rev":"A06","_custpn_revision":"910-HED-C14503_A A06","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:31:34] [Topic ID: 23] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Test Flag) 18304 910-HED-C14503_A A06]","message":"Auto  (Test Flag) 18304 910-HED-C14503_A A06","ip":"192.168.206.105","topicId":23,"won":"18304","uniq_key":"2ANX3KL7W7","_wo_saletype":"Turnkey","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"03\/03\/25","_wo_start_date":"03\/03\/25","_wo_due_date":"01\/01\/30","_scheduled_complete_date":null,"_wo_complete_planned_date":"01\/01\/30","_release_date":"04\/03\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (HED)","_cus_po":"701723-119936","_cus_pn":"910-HED-C14503_A","_cus_pn_rev":"A06","_custpn_revision":"910-HED-C14503_A A06","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (HED)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:31:36] [Topic ID: 22] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Material Review Consigned) 18305 910-SIU-TTF1363A C27303A A03]","message":"Auto  (Material Review Consigned) 18305 910-SIU-TTF1363A C27303A A03","ip":"192.168.206.105","topicId":22,"won":"18305","uniq_key":"5IUB3UTMX7","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"04\/03\/25","_wo_start_date":"04\/03\/25","_wo_due_date":"13\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"13\/03\/25","_release_date":"12\/03\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (SIU)","_cus_po":"701728-119937","_cus_pn":"910-SIU-TTF1363A C27303A","_cus_pn_rev":"A03","_custpn_revision":"910-SIU-TTF1363A C27303A A03","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (SIU)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:31:37] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18305 910-SIU-TTF1363A C27303A A03]","message":"Auto  (Assembly MPI Valor) 18305 910-SIU-TTF1363A C27303A A03","ip":"192.168.206.105","topicId":15,"won":"18305","uniq_key":"5IUB3UTMX7","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"04\/03\/25","_wo_start_date":"04\/03\/25","_wo_due_date":"13\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"13\/03\/25","_release_date":"12\/03\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (SIU)","_cus_po":"701728-119937","_cus_pn":"910-SIU-TTF1363A C27303A","_cus_pn_rev":"A03","_custpn_revision":"910-SIU-TTF1363A C27303A A03","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (SIU)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:31:38] [Topic ID: 23] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Test Flag) 18305 910-SIU-TTF1363A C27303A A03]","message":"Auto  (Test Flag) 18305 910-SIU-TTF1363A C27303A A03","ip":"192.168.206.105","topicId":23,"won":"18305","uniq_key":"5IUB3UTMX7","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"04\/03\/25","_wo_start_date":"04\/03\/25","_wo_due_date":"13\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"13\/03\/25","_release_date":"12\/03\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (SIU)","_cus_po":"701728-119937","_cus_pn":"910-SIU-TTF1363A C27303A","_cus_pn_rev":"A03","_custpn_revision":"910-SIU-TTF1363A C27303A A03","_wo_test_flag":"Yes","_is_consigned":"Yes","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"1","_company":"DIS Tech America, Inc. (SIU)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:31:42] [Topic ID: 26] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Turnkey Material Management) 18306 910-SIU-TTF5122A A01]","message":"Auto  (Turnkey Material Management) 18306 910-SIU-TTF5122A A01","ip":"192.168.206.105","topicId":26,"won":"18306","uniq_key":"FIR5ELRDB6","_wo_saletype":"Turnkey","_wo_status":"Admin Hold","_repeat_flag":"No","_wo_create_date":"05\/03\/25","_wo_start_date":"11\/03\/25","_wo_due_date":"26\/04\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"12\/03\/25","_wo_complete_date":null,"_wo_quantity":"7","_wo_complete_quantity":"0","_wo_balanace_quantity":"7","_cus_name":"DIS Tech America, Inc. (SIU)","_cus_po":"P701729-119938","_cus_pn":"910-SIU-TTF5122A","_cus_pn_rev":"A01","_custpn_revision":"910-SIU-TTF5122A A01","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 6 Days","_rma_flag":"0","_company":"DIS Tech America, Inc. (SIU)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:31:43] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18306 910-SIU-TTF5122A A01]","message":"Auto  (Assembly MPI Valor) 18306 910-SIU-TTF5122A A01","ip":"192.168.206.105","topicId":15,"won":"18306","uniq_key":"FIR5ELRDB6","_wo_saletype":"Turnkey","_wo_status":"Admin Hold","_repeat_flag":"No","_wo_create_date":"05\/03\/25","_wo_start_date":"11\/03\/25","_wo_due_date":"26\/04\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"12\/03\/25","_wo_complete_date":null,"_wo_quantity":"7","_wo_complete_quantity":"0","_wo_balanace_quantity":"7","_cus_name":"DIS Tech America, Inc. (SIU)","_cus_po":"P701729-119938","_cus_pn":"910-SIU-TTF5122A","_cus_pn_rev":"A01","_custpn_revision":"910-SIU-TTF5122A A01","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 6 Days","_rma_flag":"0","_company":"DIS Tech America, Inc. (SIU)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:31:47] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18307 910-DT-D10-104987-A A1]","message":"Auto  (Assembly MPI Valor) 18307 910-DT-D10-104987-A A1","ip":"192.168.206.105","topicId":15,"won":"18307","uniq_key":"YKDNJ182Z8","_wo_saletype":"Consignmnt","_wo_status":"Mfg Hold","_repeat_flag":"No","_wo_create_date":"05\/03\/25","_wo_start_date":"05\/03\/25","_wo_due_date":"17\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"05\/03\/25","_wo_complete_date":null,"_wo_quantity":"3","_wo_complete_quantity":"0","_wo_balanace_quantity":"3","_cus_name":"DYNAMIC TEST SOLUTIONS AMERICA Inc.","_cus_po":"US2503-0111","_cus_pn":"910-DT-D10-104987-A","_cus_pn_rev":"A1","_custpn_revision":"910-DT-D10-104987-A A1","_wo_test_flag":"No","_is_consigned":"Yes","_test_flag":"No","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 4 Days","_rma_flag":"0","_company":"DYNAMIC TEST SOLUTIONS AMERICA Inc.","_utc_time":"V:\\SEM Customers\\Dynamic Test Sol\\D10\\D10-104987-A"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:31:51] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18308 910-RDA-3022930 03]","message":"Auto  (Assembly MPI Valor) 18308 910-RDA-3022930 03","ip":"192.168.206.105","topicId":15,"won":"18308","uniq_key":"QVN5BY0RMH","_wo_saletype":"Consignmnt","_wo_status":"Mfg Hold","_repeat_flag":"No","_wo_create_date":"05\/03\/25","_wo_start_date":null,"_wo_due_date":"21\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"05\/03\/25","_wo_complete_date":null,"_wo_quantity":"40","_wo_complete_quantity":"0","_wo_balanace_quantity":"40","_cus_name":"R&D Altanova c\/o Advantest","_cus_po":"PO44503","_cus_pn":"910-RDA-3022930","_cus_pn_rev":"03","_custpn_revision":"910-RDA-3022930 03","_wo_test_flag":"No","_is_consigned":"Yes","_test_flag":"No","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 6 Days","_rma_flag":"0","_company":"R&D Altanova c\/o Advantest","_utc_time":"V:\\SEM Customers\\RD Altanova-Advantest\\3022930"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:31:54] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18309 910-DT-D12-104478-B B1]","message":"Auto  (Assembly MPI Valor) 18309 910-DT-D12-104478-B B1","ip":"192.168.206.105","topicId":15,"won":"18309","uniq_key":"TXP98HWGVH","_wo_saletype":"Consignmnt","_wo_status":"Mfg Hold","_repeat_flag":"Yes","_wo_create_date":"05\/03\/25","_wo_start_date":null,"_wo_due_date":"21\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"05\/03\/25","_wo_complete_date":null,"_wo_quantity":"3","_wo_complete_quantity":"0","_wo_balanace_quantity":"3","_cus_name":"DYNAMIC TEST SOLUTIONS AMERICA Inc.","_cus_po":"US2503-0114","_cus_pn":"910-DT-D12-104478-B","_cus_pn_rev":"B1","_custpn_revision":"910-DT-D12-104478-B B1","_wo_test_flag":"No","_is_consigned":"Yes","_test_flag":"No","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"0","_company":"DYNAMIC TEST SOLUTIONS AMERICA Inc.","_utc_time":"V:\\SEM Customers\\Dynamic Test Sol\\D12\\D12-104478-B"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:31:57] [Topic ID: 22] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Material Review Consigned) 18310 R910-LP-8000-0620-000 A2]","message":"Auto  (Material Review Consigned) 18310 R910-LP-8000-0620-000 A2","ip":"192.168.206.105","topicId":22,"won":"18310","uniq_key":"5YF2OXJX8E","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"05\/03\/25","_wo_start_date":"06\/03\/25","_wo_due_date":"12\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"12\/03\/25","_release_date":"07\/03\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"LITEPOINT CORP., San Jose","_cus_po":"PO25-0296","_cus_pn":"R910-LP-8000-0620-000","_cus_pn_rev":"A2","_custpn_revision":"R910-LP-8000-0620-000 A2","_wo_test_flag":"No","_is_consigned":"Yes","_test_flag":"No","_lead_requirement":"LeadedFree","_clean_processing":null,"_tt":null,"_rma_flag":"0","_company":"LITEPOINT CORP., San Jose","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:31:58] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18310 R910-LP-8000-0620-000 A2]","message":"Auto  (Assembly MPI Valor) 18310 R910-LP-8000-0620-000 A2","ip":"192.168.206.105","topicId":15,"won":"18310","uniq_key":"5YF2OXJX8E","_wo_saletype":"Consignmnt","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"05\/03\/25","_wo_start_date":"06\/03\/25","_wo_due_date":"12\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"12\/03\/25","_release_date":"07\/03\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"LITEPOINT CORP., San Jose","_cus_po":"PO25-0296","_cus_pn":"R910-LP-8000-0620-000","_cus_pn_rev":"A2","_custpn_revision":"R910-LP-8000-0620-000 A2","_wo_test_flag":"No","_is_consigned":"Yes","_test_flag":"No","_lead_requirement":"LeadedFree","_clean_processing":null,"_tt":null,"_rma_flag":"0","_company":"LITEPOINT CORP., San Jose","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:32:00] [Topic ID: 26] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Turnkey Material Management) 18311 910-DIS-00-0130-00 ]","message":"Auto  (Turnkey Material Management) 18311 910-DIS-00-0130-00 ","ip":"192.168.206.105","topicId":26,"won":"18311","uniq_key":"TTR9I2D6BB","_wo_saletype":"Turnkey","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"05\/03\/25","_wo_start_date":"05\/03\/25","_wo_due_date":"14\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"14\/03\/25","_release_date":"05\/03\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS TECH TAIWAN, LLC, TAIWAN BRANCH","_cus_po":"PO PENDING","_cus_pn":"910-DIS-00-0130-00","_cus_pn_rev":"","_custpn_revision":"910-DIS-00-0130-00 ","_wo_test_flag":"No","_is_consigned":"No","_test_flag":"No","_lead_requirement":"Leaded","_clean_processing":null,"_tt":null,"_rma_flag":"0","_company":"DIS TECH TAIWAN, LLC, TAIWAN BRANCH","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:32:03] [Topic ID: 26] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Turnkey Material Management) 18312 R910-LP-8000-0620-002 A2]","message":"Auto  (Turnkey Material Management) 18312 R910-LP-8000-0620-002 A2","ip":"192.168.206.105","topicId":26,"won":"18312","uniq_key":"327MNEXHYL","_wo_saletype":"Turnkey","_wo_status":"Open","_repeat_flag":"Yes","_wo_create_date":"05\/03\/25","_wo_start_date":"06\/03\/25","_wo_due_date":"11\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"11\/03\/25","_release_date":"07\/03\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"LITEPOINT CORP., San Jose","_cus_po":"PO25-0281","_cus_pn":"R910-LP-8000-0620-002","_cus_pn_rev":"A2","_custpn_revision":"R910-LP-8000-0620-002 A2","_wo_test_flag":"No","_is_consigned":"No","_test_flag":"No","_lead_requirement":"LeadedFree","_clean_processing":null,"_tt":null,"_rma_flag":"0","_company":"LITEPOINT CORP., San Jose","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:32:06] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18313 910-DT-D10-104859-A A1]","message":"Auto  (Assembly MPI Valor) 18313 910-DT-D10-104859-A A1","ip":"192.168.206.105","topicId":15,"won":"18313","uniq_key":"AAPU8YPM0H","_wo_saletype":"Consignmnt","_wo_status":"Mfg Hold","_repeat_flag":"Yes","_wo_create_date":"06\/03\/25","_wo_start_date":"06\/03\/25","_wo_due_date":"21\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"06\/03\/25","_wo_complete_date":null,"_wo_quantity":"3","_wo_complete_quantity":"0","_wo_balanace_quantity":"3","_cus_name":"DYNAMIC TEST SOLUTIONS AMERICA Inc.","_cus_po":"US2503-0117","_cus_pn":"910-DT-D10-104859-A","_cus_pn_rev":"A1","_custpn_revision":"910-DT-D10-104859-A A1","_wo_test_flag":"No","_is_consigned":"Yes","_test_flag":"No","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 6 Days","_rma_flag":"0","_company":"DYNAMIC TEST SOLUTIONS AMERICA Inc.","_utc_time":"V:\\SEM Customers\\Dynamic Test Sol\\D10\\D10-104859-A"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:32:10] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18314 910-DT-D10-104866-A A1]","message":"Auto  (Assembly MPI Valor) 18314 910-DT-D10-104866-A A1","ip":"192.168.206.105","topicId":15,"won":"18314","uniq_key":"FIOIJ5K7LE","_wo_saletype":"Consignmnt","_wo_status":"Mfg Hold","_repeat_flag":"No","_wo_create_date":"06\/03\/25","_wo_start_date":"06\/03\/25","_wo_due_date":"21\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"07\/03\/25","_wo_complete_date":null,"_wo_quantity":"8","_wo_complete_quantity":"0","_wo_balanace_quantity":"8","_cus_name":"DYNAMIC TEST SOLUTIONS AMERICA Inc.","_cus_po":"PO PENDING","_cus_pn":"910-DT-D10-104866-A","_cus_pn_rev":"A1","_custpn_revision":"910-DT-D10-104866-A A1","_wo_test_flag":"No","_is_consigned":"Yes","_test_flag":"No","_lead_requirement":"Leaded","_clean_processing":null,"_tt":null,"_rma_flag":"0","_company":"DYNAMIC TEST SOLUTIONS AMERICA Inc.","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:32:13] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18315 910-ACK-E-04T ]","message":"Auto  (Assembly MPI Valor) 18315 910-ACK-E-04T ","ip":"192.168.206.105","topicId":15,"won":"18315","uniq_key":"IR15QQKWCE","_wo_saletype":"Consignmnt","_wo_status":"Mfg Hold","_repeat_flag":"Yes","_wo_create_date":"07\/03\/25","_wo_start_date":"07\/03\/25","_wo_due_date":"14\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"07\/03\/25","_wo_complete_date":null,"_wo_quantity":"535","_wo_complete_quantity":"0","_wo_balanace_quantity":"535","_cus_name":"ACK TECHNOLOGIES, INC.","_cus_po":"78","_cus_pn":"910-ACK-E-04T","_cus_pn_rev":"","_custpn_revision":"910-ACK-E-04T ","_wo_test_flag":"No","_is_consigned":"Yes","_test_flag":"No","_lead_requirement":"Leaded","_clean_processing":"","_tt":"","_rma_flag":"0","_company":"ACK TECHNOLOGIES, INC.","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:32:17] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18316 D10-104997-A_TEST_COUPON A1]","message":"Auto  (Assembly MPI Valor) 18316 D10-104997-A_TEST_COUPON A1","ip":"192.168.206.105","topicId":15,"won":"18316","uniq_key":"MQQVWIXMEZ","_wo_saletype":"Consignmnt","_wo_status":"Mfg Hold","_repeat_flag":"No","_wo_create_date":"07\/03\/25","_wo_start_date":"07\/03\/25","_wo_due_date":"21\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"10\/03\/25","_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DYNAMIC TEST SOLUTIONS AMERICA Inc.","_cus_po":"US2503-0118","_cus_pn":"D10-104997-A_TEST_COUPON","_cus_pn_rev":"A1","_custpn_revision":"D10-104997-A_TEST_COUPON A1","_wo_test_flag":"No","_is_consigned":"Yes","_test_flag":"No","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 5 Days","_rma_flag":"0","_company":"DYNAMIC TEST SOLUTIONS AMERICA Inc.","_utc_time":"V:\\SEM Customers\\Dynamic Test Sol\\D10\\D10-104997-A  test coupon"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:32:20] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18317 910-RDA-3030300 01]","message":"Auto  (Assembly MPI Valor) 18317 910-RDA-3030300 01","ip":"192.168.206.105","topicId":15,"won":"18317","uniq_key":"9GEVHTEN19","_wo_saletype":"Consignmnt","_wo_status":"Mfg Hold","_repeat_flag":"No","_wo_create_date":"07\/03\/25","_wo_start_date":"07\/03\/25","_wo_due_date":"28\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"10\/03\/25","_wo_complete_date":null,"_wo_quantity":"4","_wo_complete_quantity":"0","_wo_balanace_quantity":"4","_cus_name":"R&D Altanova c\/o Advantest","_cus_po":"PO44602","_cus_pn":"910-RDA-3030300","_cus_pn_rev":"01","_custpn_revision":"910-RDA-3030300 01","_wo_test_flag":"No","_is_consigned":"Yes","_test_flag":"No","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":"","_rma_flag":"0","_company":"R&D Altanova c\/o Advantest","_utc_time":"V:\\SEM Customers\\RD Altanova-Advantest\\3030300"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:32:25] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18318 910-SIU-TTF5112A A02]","message":"Auto  (Assembly MPI Valor) 18318 910-SIU-TTF5112A A02","ip":"192.168.206.105","topicId":15,"won":"18318","uniq_key":"H3FBZ5MSJM","_wo_saletype":"Turnkey","_wo_status":"Mfg Hold","_repeat_flag":"No","_wo_create_date":"10\/03\/25","_wo_start_date":"10\/03\/25","_wo_due_date":"09\/04\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"10\/03\/25","_wo_complete_date":null,"_wo_quantity":"3","_wo_complete_quantity":"0","_wo_balanace_quantity":"3","_cus_name":"DIS Tech America, Inc. (SIU)","_cus_po":"Z701742-119942","_cus_pn":"910-SIU-TTF5112A","_cus_pn_rev":"A02","_custpn_revision":"910-SIU-TTF5112A A02","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 6 Days","_rma_flag":"0","_company":"DIS Tech America, Inc. (SIU)","_utc_time":"V:\\DIS-Tech\\Technoprobe\\TTF5112A"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:32:30] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18319 910-SEM-101-0000211 1]","message":"Auto  (Assembly MPI Valor) 18319 910-SEM-101-0000211 1","ip":"192.168.206.105","topicId":15,"won":"18319","uniq_key":"ILHQ85RAIJ","_wo_saletype":"Turnkey","_wo_status":"Mfg Hold","_repeat_flag":"No","_wo_create_date":"10\/03\/25","_wo_start_date":"10\/03\/25","_wo_due_date":"28\/03\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"10\/03\/25","_wo_complete_date":null,"_wo_quantity":"10","_wo_complete_quantity":"0","_wo_balanace_quantity":"10","_cus_name":"SEM","_cus_po":"PO PENDING","_cus_pn":"910-SEM-101-0000211","_cus_pn_rev":"1","_custpn_revision":"910-SEM-101-0000211 1","_wo_test_flag":"No","_is_consigned":"No","_test_flag":"No","_lead_requirement":"Leaded","_clean_processing":null,"_tt":null,"_rma_flag":"0","_company":"SEM","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:32:41] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18322 910-SIU- TTF1331A_A A02]","message":"Auto  (Assembly MPI Valor) 18322 910-SIU- TTF1331A_A A02","ip":"192.168.206.105","topicId":15,"won":"18322","uniq_key":"W8OY17KP84","_wo_saletype":"Turnkey","_wo_status":"Cancel","_repeat_flag":"No","_wo_create_date":"12\/03\/25","_wo_start_date":"12\/03\/25","_wo_due_date":"12\/04\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":"12\/04\/25","_release_date":null,"_wo_complete_date":null,"_wo_quantity":"1","_wo_complete_quantity":"0","_wo_balanace_quantity":"1","_cus_name":"DIS Tech America, Inc. (SIU)","_cus_po":"P701754-119956","_cus_pn":"910-SIU- TTF1331A_A","_cus_pn_rev":"A02","_custpn_revision":"910-SIU- TTF1331A_A A02","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":null,"_tt":null,"_rma_flag":"0","_company":"DIS Tech America, Inc. (SIU)","_utc_time":"Docment Not Available Now"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;
+[2025-07-14 21:32:46] [Topic ID: 15] [WO: {"name":"Ahmar","email":"pmo@sem-inc.com","phone":"","subject":"[Auto  (Assembly MPI Valor) 18323 910-SIU-TTF5113A A02]","message":"Auto  (Assembly MPI Valor) 18323 910-SIU-TTF5113A A02","ip":"192.168.206.105","topicId":15,"won":"18323","uniq_key":"082OBIXHU2","_wo_saletype":"Turnkey","_wo_status":"Mfg Hold","_repeat_flag":"No","_wo_create_date":"12\/03\/25","_wo_start_date":"12\/03\/25","_wo_due_date":"10\/04\/25","_scheduled_complete_date":null,"_wo_complete_planned_date":null,"_release_date":"12\/03\/25","_wo_complete_date":null,"_wo_quantity":"47","_wo_complete_quantity":"0","_wo_balanace_quantity":"47","_cus_name":"DIS Tech America, Inc. (SIU)","_cus_po":"Z701755-119952","_cus_pn":"910-SIU-TTF5113A","_cus_pn_rev":"A02","_custpn_revision":"910-SIU-TTF5113A A02","_wo_test_flag":"Yes","_is_consigned":"No","_test_flag":"Yes","_lead_requirement":"Leaded","_clean_processing":"Clean","_tt":" 6 Days","_rma_flag":"0","_company":"DIS Tech America, Inc. (SIU)","_utc_time":"V:\\DIS-Tech\\FFI\\TTF5113A"}] [Ticket ID: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+] API Response: ->-> <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at 127.0.0.1 Port 80</address>
+</body></html>
+;;;;;;;;

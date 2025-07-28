@@ -529,46 +529,22 @@ if (!$ticket) { ?>
 <div class="clear"></div>
 <div id="task_thread_container">
     <div id="task_thread_content" class="tab_content">
-     <?php
-     $task->getThread()->render(array('M', 'R', 'N'),
-             array(
-                 'mode' => Thread::MODE_STAFF,
-                 'container' => 'taskThread',
-                 'sort' => $thisstaff->thread_view_order
-                 )
-             );
-     ?>
-   </div>
-</div>
-<div class="clear"></div>
-<?php if($errors['err']) { ?>
-    <div id="msg_error"><?php echo $errors['err']; ?></div>
-<?php }elseif($msg) { ?>
-    <div id="msg_notice"><?php echo $msg; ?></div>
-<?php }elseif($warn) { ?>
-    <div id="msg_warning"><?php echo $warn; ?></div>
-<?php }
 
-if ($ticket)
-    $action = sprintf('#tickets/%d/tasks/%d',
-            $ticket->getId(), $task->getId());
-else
-    $action = 'tasks.php?id='.$task->getId();
-?>
 <div id="task_response_options" class="<?php echo $ticket ? 'ticket_task_actions' : ''; ?> sticky bar stop actions">
     <ul class="tabs">
         <?php
         if ($role->hasPerm(TaskModel::PERM_REPLY)) { ?>
         <li class="active"><a href="#task_reply"><?php echo __('Post Update');?></a></li>
-        <li><a href="#task_note"><?php echo __('Post Internal Note');?></a></li>
+        <li><a href="#task_note"><?php echo "<pre>";print_r($action); echo __('Post Internal Note');?></a></li>
         <?php
         }?>
     </ul>
-    <?php
-    if ($role->hasPerm(TaskModel::PERM_REPLY)) { ?>
+    
     <form id="task_reply" class="tab_content spellcheck save"
         action="<?php echo $action; ?>"
         name="task_reply" method="post" enctype="multipart/form-data">
+        <?php
+    if ($role->hasPerm(TaskModel::PERM_REPLY)) { ?>
         <?php csrf_token(); ?>
         <input type="hidden" name="id" value="<?php echo $task->getId(); ?>">
         <input type="hidden" name="a" value="postreply">
@@ -611,8 +587,8 @@ else
                         rows="9" wrap="soft"
                         class="<?php if ($cfg->isRichTextEnabled()) echo 'richtext';
                             ?> draft draft-delete fullscreen" <?php
-    list($draft, $attrs) = Draft::getDraftAndDataAttrs('task.response', $task->getId(), $info['task.response']);
-    echo $attrs; ?>><?php echo $draft ?: $info['task.response'];
+            list($draft, $attrs) = Draft::getDraftAndDataAttrs('task.response', $task->getId(), $info['task.response']);
+            echo $attrs; ?>><?php echo $draft ?: $info['task.response'];
                     ?></textarea>
                 <div id="task_response_form_attachments" class="attachments">
                 <?php
@@ -713,6 +689,36 @@ else
        </p>
     </form>
  </div>
+
+
+     <?php
+     $task->getThread()->render(array('M', 'R', 'N'),
+             array(
+                 'mode' => Thread::MODE_STAFF,
+                 'container' => 'taskThread',
+                 'sort' => $thisstaff->thread_view_order
+                 )
+             );
+     ?>
+   </div>
+</div>
+
+<div class="clear"></div>
+<?php if($errors['err']) { ?>
+    <div id="msg_error"><?php echo $errors['err']; ?></div>
+<?php }elseif($msg) { ?>
+    <div id="msg_notice"><?php echo $msg; ?></div>
+<?php }elseif($warn) { ?>
+    <div id="msg_warning"><?php echo $warn; ?></div>
+<?php }
+
+if ($ticket)
+    $action = sprintf('#tickets/%d/tasks/%d',
+            $ticket->getId(), $task->getId());
+else
+    $action = 'tasks.php?id='.$task->getId();
+?>
+
 <?php
 echo $reply_attachments_form->getMedia();
 ?>

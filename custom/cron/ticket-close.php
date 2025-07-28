@@ -33,6 +33,17 @@ function setCustomData()
     return array($subject, $msg, $arr);
 }
 
+// CREATE INDEX idx_wo_number ON _wo_cron_logs(wo_number);ALGORITHM=INPLACE;
+// CREATE INDEX idx_ticket_id ON _wo_cron_logs(ticket_id);ALGORITHM=INPLACE;
+// CREATE INDEX idx_wo_number_status ON manex_work_orders(WONumber, WOStatus);ALGORITHM=INPLACE;
+// CREATE INDEX idx_ticket_status ON sem_ticket(number, status_id);ALGORITHM=INPLACE;
+
+
+// ALTER TABLE _wo_cron_logs
+//ADD COLUMN padded_ticket_id VARCHAR(255) AS (LPAD(ticket_id, 6, '0')) STORED;
+
+
+
 
 function getDataFromDB($wo_no = '')
 {   
@@ -41,6 +52,8 @@ function getDataFromDB($wo_no = '')
     join manex_work_orders m on l.wo_number=m.WONumber 
     join sem_ticket s on CONCAT("00",l.ticket_id)=s.number
     where m.WOStatus in ("Closed","Cancel") and s.status_id<3', $fields);
+
+    echo $query;exit;
     
     $result = executeQuery($query);
     return getDataFromResultSet($result);

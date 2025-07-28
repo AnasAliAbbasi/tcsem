@@ -90,7 +90,7 @@ if ($_POST)
                 <?php echo __('Help Topic');?>:
             </td>
             <td>
-                <select name="topicId">
+                <!-- <select name="topicId">
                     <option value="" selected >&mdash; <?php echo __('Select Help Topic');?> &mdash;</option>
                     <?php
                     if ($topics=$thisstaff->getTopicNames()) {
@@ -104,7 +104,24 @@ if ($_POST)
                         }
                     }
                     ?>
-                </select>
+                </select> -->
+
+                 
+                <div class="topic-tree-view">
+                    <input type="hidden" name="topicId" id="topicId" value="">
+                    <h4>Help Topic Tree</h4>
+                    
+                    <?php 
+                      $topics=$thisstaff->getTopicNames1(true, false);
+                      $tree = $thisstaff->buildTopicTree($topics);
+      
+                    echo $thisstaff->renderTopicTree($tree);
+                    
+                    ?>
+
+                  
+                </div>
+
 
                 <?php
                 if (!$info['topicId'] && $cfg->requireTopicToClose()) {

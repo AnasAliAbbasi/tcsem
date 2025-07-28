@@ -12,6 +12,10 @@
     See LICENSE.TXT for details.
 
     vim: expandtab sw=4 ts=4 sts=4:
+
+    //include/
+
+
 **********************************************************************/
 include_once(INCLUDE_DIR.'class.ticket.php');
 include_once(INCLUDE_DIR.'class.dept.php');
@@ -516,6 +520,104 @@ implements AuthenticatedUser, EmailContact, TemplateVariable, Searchable {
 
         return $topics;
     }
+
+     function getTopicNames1($publicOnly=false, $disabled=false) {
+        
+        $allInfo = !$this->hasPerm(Dept::PERM_DEPT) ? true : false;
+        $topics = Topic::getHelpTopics1($publicOnly, $disabled, true, array(), $allInfo);
+
+        return $topics;
+    }
+        
+    function buildTopicTree($topics){
+        $tree = [];
+        $refs = [];
+
+        // Create reference array and ensure 'children' key is set
+        foreach ($topics as $id => $topic) {
+            $topic['id'] = $id;
+            $topic['children'] = []; // Add the missing 'children' key
+            $refs[$id] = $topic;
+        }
+
+        // Rebuild the tree structure
+        foreach ($refs as $id => $topic) {
+            $pid = $topic['pid'];
+            if ($pid && isset($refs[$pid])) {
+                $refs[$pid]['children'][] = &$refs[$id];
+            } else {
+                $tree[] = &$refs[$id];
+            }
+        }
+
+        return $tree;
+    }
+
+
+
+    // function renderTopicTree(array $topics, $level = 0)
+    // {
+    //     $output = '<ul class="topic-tree">';
+
+    //     foreach ($topics as $topic) {
+    //         $hasChildren = !empty($topic['children']);
+    //         $disabled = $topic['disabled'] ? ' <em>(disabled)</em>' : '';
+    //         $onclick = $topic['disabled'] ? '' : "loadHelpTopic({$topic['id']}, this)";
+            
+    //         // Add toggle span if it has children
+    //         $toggleIcon = $hasChildren ? '<span class="toggle">[+]</span>' : '';
+            
+    //         $link = $topic['disabled']
+    //             ? htmlspecialchars($topic['topic']) . $disabled
+    //             : "<a href='javascript:void(0);' onclick=\"{$onclick}\">" . htmlspecialchars($topic['topic']) . "</a>";
+
+    //         $output .= '<li>' . $toggleIcon . ' ' . $link;
+
+    //         if ($hasChildren) {
+    //             $output .= '<div class="children" style="display: none;">';
+    //             $output .= self::renderTopicTree($topic['children'], $level + 1);
+    //             $output .= '</div>';
+    //         }
+
+    //         $output .= '</li>';
+    //     }
+
+    //     $output .= '</ul>';
+    //     return $output;
+    // }
+
+    function renderTopicTree(array $topics, $level = 0)
+    {
+        $output = '<ul class="topic-tree">';
+    
+        foreach ($topics as $topic) {
+            $hasChildren = !empty($topic['children']);
+            $disabled = $topic['disabled'] ? ' <em>(disabled)</em>' : '';
+            $onclick = $topic['disabled'] ? '' : "loadHelpTopic({$topic['id']}, this)";
+            
+            // Add toggle span if it has children
+            $toggleIcon = $hasChildren ? '<span class="toggle">[+]</span>' : '';
+            
+            $link = $topic['disabled']
+                ? htmlspecialchars($topic['topic']) . $disabled
+                : "<a href='javascript:void(0);' class='topic-link' onclick=\"{$onclick}\">" . htmlspecialchars($topic['topic']) . "</a>";
+    
+            $output .= '<li class="topic-item">' . $toggleIcon . ' ' . $link;
+    
+            if ($hasChildren) {
+                $output .= '<div class="children" style="display: none;">';
+                $output .= self::renderTopicTree($topic['children'], $level + 1);
+                $output .= '</div>';
+            }
+    
+            $output .= '</li>';
+        }
+    
+        $output .= '</ul>';
+        return $output;
+    }
+    
+
 
     function getManagedDepartments() {
 

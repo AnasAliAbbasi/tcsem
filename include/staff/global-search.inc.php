@@ -1,9 +1,3 @@
-<?php 
-
-require_once('../../include/staff/header.inc.php');
-
-
-?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -14,7 +8,7 @@ require_once('../../include/staff/header.inc.php');
     <link rel="stylesheet" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
     <style>
         body {
-            padding: 40px;
+           /* padding: 40px;*/
             background: #ffffff;
             font-family: 'Segoe UI', sans-serif;
             color: #000000;
@@ -165,12 +159,14 @@ require_once('../../include/staff/header.inc.php');
 $(document).ready(function () {
     const table = $('#searchTable').DataTable({
     ajax: {
-        url: 'globalSearch.php',
+        url: '/tcsem/include/staff/globalSearch.php',
+        headers: {"X-Requested-With": "XMLHttpRequest"},
         data: function (d) {
             d.keyword = $('#searchKeyword').val();
         },
         dataSrc: 'data'
     },
+    
     ordering: false,
     columns: [
         { data: 'type' },
@@ -204,6 +200,3 @@ $(document).ready(function () {
 </html>
 
 
-<?php
-require_once('../../include/staff/footer.inc.php');
-?>

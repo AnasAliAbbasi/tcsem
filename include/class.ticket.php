@@ -1130,7 +1130,7 @@ implements RestrictedAccess, Threadable, Searchable {
             $current = array();
             if ($topic = $this->getTopic())
                 $current = array($topic->getId());
-            $choices = Topic::getHelpTopics(false, $topic ? (Topic::DISPLAY_DISABLED) : false, true, $current);
+            $choices = Topic::getHelpTopics1(false, $topic ? (Topic::DISPLAY_DISABLED) : false, true, $current);
             return TopicField::init(array(
                         'id' => $fid,
                         'name' => "{$fid}_id",

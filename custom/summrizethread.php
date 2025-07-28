@@ -3,20 +3,20 @@
 include_once dirname(__FILE__) . '/includes/functions.php';
 
 $thread_id = $ticket->getId();
+$staff_id = $thisstaff->getId();
 
 $id = $_GET['key'];
+
+summrizeThreadDisscussion($thread_id);
 
 if($id == 'postThread'){
  
     $summary = $_SESSION['summary'];
     $summary = $summary['decoded_response'];
 
-    postThread($summary , $thread_id);
+    postThread($summary , $thread_id , $staff_id);
 
 }
-
-summrizeThreadDisscussion($thread_id);
-
 function summrizeThreadDisscussion($ticket_id) {
 
     $threadDetails = getThreadId($ticket_id);
@@ -52,21 +52,21 @@ function summrizeThreadDisscussion($ticket_id) {
         }
 
         $allData = array_merge($threadChat, $attachments, $tasks);
-        
-       
 
-        if (isset($_SESSION['summary'])) {
-
+        if (isset($_SESSION['summary']) && $_SESSION['ticket_id'] == $ticket_id) {
             $summary = $_SESSION['summary'];
         } else {
             $summary = callOpenAI($allData);
-            $_SESSION['summary'] = $summary; // Store the summary in session for future use
+            $_SESSION['summary'] = $summary;
+            $_SESSION['ticket_id'] = $ticket_id; 
         }
 
         $id = $_GET['key'];
         if($id == 'refresh') {
             $summary = callOpenAI($allData);
             $_SESSION['summary'] = $summary; 
+            $_SESSION['ticket_id'] = $ticket_id;
+            echo '<script>window.location.href="tickets.php?id=' . $ticket_id . '#summrizeThread";</script>';
         }
 
         callHTML($summary , $ticket_id);
@@ -101,8 +101,8 @@ function callOpenAI ($chat) {
     $cleanedChat = strip_tags(json_encode($chat) , '<a><div><p>');
     
 
-
-    
+    $apiKey = "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"; // Replace this
+     
     $data = [
         "model" => "gpt-3.5-turbo",
         "messages" => [
@@ -143,14 +143,31 @@ function callOpenAI ($chat) {
 
 function getAttachment ( $ticket_id ) {
     
-    $query = sprintf('SELECT *
-    FROM sem_ticket t
-    LEFT JOIN sem_thread th ON (t.ticket_id = th.object_id)
-    LEFT JOIN sem_thread_entry e ON (e.thread_id = th.id)
-    LEFT JOIN sem_attachment a ON (e.id = a.object_id)
-    LEFT JOIN sem_file f ON (a.file_id = f.id)
-    WHERE t.ticket_id = "%1$d"  AND f.key <> "NULL" 
-    order by e.created asc', $ticket_id );
+    $query = sprintf('SELECT * FROM (
+                SELECT 
+                    t.number, f.name, f.key, f.signature, a.id, 
+                    f.id AS fid, f.size, e.created, a.object_id 
+                FROM sem_ticket t 
+                LEFT JOIN sem_thread th ON (t.ticket_id = th.object_id) 
+                LEFT JOIN sem_thread_entry e ON (e.thread_id = th.id) 
+                LEFT JOIN sem_attachment a ON (e.id = a.object_id) 
+                LEFT JOIN sem_file f ON (a.file_id = f.id) 
+                WHERE t.ticket_id = %1$d AND f.key IS NOT NULL
+        
+                UNION ALL
+        
+                SELECT 
+                    t.number, f.name, f.key, f.signature, a.id, 
+                    f.id AS fid, f.size, e.created, a.object_id 
+                FROM sem_ticket t 
+                LEFT JOIN sem_task st ON t.ticket_id = st.object_id 
+                LEFT JOIN sem_thread th ON (st.id = th.object_id) 
+                LEFT JOIN sem_thread_entry e ON (e.thread_id = th.id) 
+                LEFT JOIN sem_attachment a ON (e.id = a.object_id) 
+                LEFT JOIN sem_file f ON (a.file_id = f.id) 
+                WHERE t.ticket_id = %1$d AND f.key IS NOT NULL
+            ) AS combined
+            ORDER BY object_id DESC, name ASC', $ticket_id );
 
     $result = executeQuery($query);
     return getDataFromResultSet($result);
@@ -191,12 +208,11 @@ function callHTML($summary , $ticket_id) {
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
-        h1 {
-            font-size: 24px;
-            color: #333;
+        h5 {
+            font-weight:bold;
             text-align: left;
             margin-bottom: 20px;
-            text-decoration:underline;
+            text-decoration:underline !important;
         }
         p {
             font-size: 17px;
@@ -214,22 +230,34 @@ function callHTML($summary , $ticket_id) {
 <body>
 
 <div class='container'>";
-if($_SESSION['flash'] == true){
-    echo '<div class="success-banner">';
-    echo "Thread Has Been Posted";
-    echo '</div>';
-}
+// if($_SESSION['flash'] == 'true'){
+//     echo '<div class="success-banner">';
+//     echo "Thread Has Been Posted";
+//     echo '</div>';
+
+//     unset($_SESSION['flash']);
+
+// }
 
 
 echo "<h5 ><strong>AI Generated Summary</strong></h5>
-  
-   <div class='summary-content'>
-        <p>{$summary['decoded_response']}</p>
-    </div>
+    <h6 class='editText' style='font-size: 16px;font-weight: bold;'> </h6>
+    <div class='summary-content'>
+";
 
-    <button class='btn btn-primary mt-4' id='refreshSummary' data-ticket='".$ticket_id."' > Refresh Summary </button> 
+if($_SESSION['ticket_id'] == $ticket_id ){
+    echo"
+         <p>{$summary['decoded_response']}</p>
+ ";
+ 
+}
+echo "
+ </div>
+ <div class='text-center mt-4'>
+
+    <button class='btn btn-outline-primary mt-4' id='refreshSummary' data-ticket='".$ticket_id."' > Refresh Summary </button> 
    
-    <button type='button' class='btn btn-primary mt-4'  id='showModal'>
+    <button type='button' class='btn btn-outline-primary mt-4' id='showModal'>
         Edit Summary
     </button>
 
@@ -237,10 +265,10 @@ echo "<h5 ><strong>AI Generated Summary</strong></h5>
         Save Summary
     </button>
 
-    <button type='button' class='btn btn-primary mt-4' data-ticket_id='".$ticket_id."' id='postThread'>
+    <button type='button' class='btn btn-outline-primary mt-4' data-ticket_id='".$ticket_id."' id='postThread'>
         Post Thread
     </button>
-
+</div>
 </div>
 
 </body>
@@ -251,22 +279,22 @@ echo "<h5 ><strong>AI Generated Summary</strong></h5>
 }
 
 
-function postThread($summary , $ticket_id){
+function postThread($summary , $ticket_id , $staff_id){
 
     $getThreadId = getThreadId($ticket_id);
     $thread_id = $getThreadId[0]['id'];
 
     $query = sprintf(
-        'INSERT INTO `sem_thread_entry` (`thread_id`, `user_id` ,`type`, `flags`, `poster`, `body`, `format`, `ip_address` , `created`) 
-        VALUES (%1$d, \'%2$s\', \'%3$s\', \'%4$s\', \'%5$s\', \'%6$s\', \'%7$s\' ,  \'%8$s\' , \'%9$s\')',
+        'INSERT INTO `sem_thread_entry` (`thread_id`, `staff_id` ,`type`, `flags`, `poster`, `body`, `format`, `ip_address` , `created`) 
+        VALUES (%1$d, \'%2$s\', \'%3$s\', \'%4$s\', \'%5$s\', \'%6$s\', \'%7$s\' ,  \'%8$s\' ,  \'%9$s\')',
         $thread_id,   
-        '32',   
+        $staff_id,   
         'R',    
         '576',       
         'Ahmar',      
         '<p> '.$summary.' </p>',        
         'html',        
-        '::1',    
+        '::1',  
         date('Y-m-d H:i:s')
     );
 
@@ -295,7 +323,7 @@ function postThread($summary , $ticket_id){
     $result = executeQuery($query);
 
     $_SESSION['flash'] = 'true';
-    header('Location: tickets.php?id=' . $ticket_id);
+    echo '<script>window.location.href="tickets.php?id=' . $ticket_id . '#ticket_thread";</script>';
   
 } 
 

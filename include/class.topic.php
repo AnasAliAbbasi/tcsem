@@ -12,6 +12,8 @@
     See LICENSE.TXT for details.
 
     vim: expandtab sw=4 ts=4 sts=4:
+
+    //include
 **********************************************************************/
 require_once INCLUDE_DIR . 'class.sequence.php';
 require_once INCLUDE_DIR . 'class.filter.php';
@@ -398,6 +400,40 @@ implements TemplateVariable, Searchable {
 
       return $requested_names;
     }
+
+    
+    static function getHelpTopics1($publicOnly=false, $disabled=false, $localize=true, $whitelist=array(), $allData=false) {
+        $objects = self::objects()->values_flat(
+            'topic_id', 'topic_pid', 'ispublic', 'flags', 'topic', 'dept_id'
+        )
+        ->order_by('sort');
+      
+        $topics = array();
+        foreach ($objects as $T) {
+            list($id, $pid, $pub, $flags, $topic, $deptId) = $T;
+
+
+            if($publicOnly == true){
+
+                if($pub != 0){
+
+                    $display = ($flags & self::FLAG_ACTIVE);
+
+                    $topics[$id] = array('id'=> $id, 'pid'=>$pid, 'public'=>$pub,
+
+                        'disabled'=>!$display, 'topic'=>$topic, 'dept_id'=>$deptId);
+
+                }
+
+            }
+
+        }
+
+        return $topics;
+
+    }
+
+   
 
     static function getPublicHelpTopics() {
         return self::getHelpTopics(true);

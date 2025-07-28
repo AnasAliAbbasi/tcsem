@@ -1,4 +1,6 @@
 <?php
+//include/staff/
+
 if (!defined('OSTSCPINC') || !$thisstaff
         || !$thisstaff->hasPerm(Ticket::PERM_CREATE, false))
         die('Access Denied');
@@ -67,13 +69,10 @@ if ($_POST)
 </div>
  <table class="form_table fixed" width="940" border="0" cellspacing="0" cellpadding="2">
     <thead>
-    <!-- This looks empty - but beware, with fixed table layout, the user
-         agent will usually only consult the cells in the first row to
-         construct the column widths of the entire toable. Therefore, the
-         first row needs to have two cells -->
+
         <tr><td style="padding:0;"></td><td style="padding:0;"></td></tr>
     </thead>
-    <tbody>
+    <tbody id="tb1" >
         <tr>
             <th colspan="2"><!--osta-->
                 <em><strong><?php echo __('User and Collaborators'); ?></strong></em>
@@ -121,7 +120,7 @@ if ($_POST)
 		<!-- osta -->	
 		<tr id="userRow">
 			<td id="user" class="required" width="160"><?php echo __('User'); ?>:</td>
-			<td class="select"><select class="userSelection" name="name" id="user-name" data-placeholder="<?php echo __('Select User'); ?>"></select>
+			<td class="select" style="display:flex;"><select class="userSelection" name="name" id="user-name" data-placeholder="<?php echo __('Select User'); ?>"></select>
 				<a class="inline button" style="overflow:inherit" href="#"
 					onclick="javascript:
 					$.userLookup('ajax.php/users/lookup/form', function (user) {
@@ -144,7 +143,7 @@ if ($_POST)
         } ?>
 		<tr id="ccRow">
 			<td id="ccuser" width="160"><?php echo __('Cc'); ?>:</td>
-			<td class="select">
+			<td class="select" style="display:flex;margin-top:30px;margin-bottom:30px;">
 				<select class="collabSelections" name="ccs[]" id="cc_users_open" multiple="multiple"
 					ref="tags" data-placeholder="<?php echo __('Select Contacts'); ?>">
 				</select>
@@ -181,7 +180,7 @@ if ($_POST)
 		</tr>
       <?php } ?>
     </tbody>
-    <tbody>
+    <tbody id="tb2">
         <tr>
             <th colspan="2">
                 <em><strong><?php echo __('Ticket Information and Options');?></strong>:</em>
@@ -211,40 +210,23 @@ if ($_POST)
             <td width="160" class="required">
                 <?php echo __('Help Topic'); ?>:
             </td>
-            <td>
-         
-                <select name="topicId" onchange="javascript:
-                        var data = $(':input[name]', '#dynamic-form').serialize();
-                        $.ajax(
-                          'ajax.php/form/help-topic/' + this.value,
-                          {
-                            data: data,
-                            dataType: 'json',
-                            success: function(json) {
-                              $('#dynamic-form').empty().append(json.html);
-                              $(document.head).append(json.media);
-                            }
-                          });">
-                    <?php
-                    if ($topics=$thisstaff->getTopicNames(true, false)) {
-                        if (count($topics) == 1)
-                            $selected = 'selected="selected"';
-                        else { ?>
-                        <option value="" selected >&mdash; <?php echo __('Select Help Topic'); ?> &mdash;</option>
-<?php                   }
-                        foreach($topics as $id =>$name) {
-                            
-                            echo sprintf('<option value="%d" %s %s>%s</option>',
-                                $id, ($info['topicId']==$id)?'selected="selected"':'',
-                                $selected, $name);
-                        }
-                        if (count($topics) == 1 && !$forms) {
-                            if (($T = Topic::lookup($id)))
-                                $forms =  $T->getForms();
-                        }
-                    }
+            <td colspan="6">
+              
+                <div class="topic-tree-view">
+                    <input type="hidden" name="topicId" id="topicId" value="">
+                    <h4>Help Topic Tree</h4>
+                    
+                    <?php 
+                      $topics=$thisstaff->getTopicNames1(true, false);
+                      $tree = $thisstaff->buildTopicTree($topics);
+      
+                    echo $thisstaff->renderTopicTree($tree);
+                    
                     ?>
-                </select>
+
+                  
+                </div>
+                      
                 &nbsp;<font class="error"><b>*</b>&nbsp;<?php echo $errors['topicId']; ?></font>
             </td>
         </tr>
@@ -346,8 +328,9 @@ if ($_POST)
             </td>
         </tr>
         <?php } ?>
-        </tbody>
-        <tbody id="dynamic-form">
+    </tbody>
+    
+    <tbody id="dynamic-form1">
         <?php
             $options = array('mode' => 'create');
             foreach ($forms as $form) {
@@ -355,8 +338,8 @@ if ($_POST)
                 include(STAFFINC_DIR .  'templates/dynamic-form.tmpl.php');
             }
         ?>
-        </tbody>
-        <tbody>
+    </tbody>
+    <tbody>
         <?php
         //is the user allowed to post replies??
         if ($thisstaff->getRole()->hasPerm(Ticket::PERM_REPLY)) { ?>
@@ -368,7 +351,7 @@ if ($_POST)
             </th>
         </tr>
         <tr>
-            <td colspan=2>
+            <td colspan=6>
             <?php
             if($cfg->isCannedResponseEnabled() && ($cannedResponses=Canned::getCannedResponses())) {
                 ?>
@@ -398,13 +381,13 @@ if ($_POST)
                     placeholder="<?php echo __('Initial response for the ticket'); ?>"
                     name="response" id="response" cols="21" rows="8"
                     style="width:80%;" <?php
-    list($draft, $attrs) = Draft::getDraftAndDataAttrs('ticket.staff.response', false, $info['response']);
-    echo $attrs; ?>><?php echo ThreadEntryBody::clean($_POST ? $info['response'] : $draft);
+        list($draft, $attrs) = Draft::getDraftAndDataAttrs('ticket.staff.response', false, $info['response']);
+        echo $attrs; ?>><?php echo ThreadEntryBody::clean($_POST ? $info['response'] : $draft);
                 ?></textarea>
                     <div class="attachments">
-<?php
-print $response_form->getField('attachments')->render();
-?>
+                <?php
+                print $response_form->getField('attachments')->render();
+                ?>
                     </div>
 
                 <table border="0" cellspacing="0" cellpadding="2" width="100%">
@@ -461,14 +444,14 @@ print $response_form->getField('attachments')->render();
             </th>
         </tr>
         <tr>
-            <td colspan=2>
+            <td colspan=6>
                 <textarea
                     class="<?php if ($cfg->isRichTextEnabled()) echo 'richtext';
                         ?> draft draft-delete"
                     placeholder="<?php echo __('Optional internal note (recommended on assignment)'); ?>"
                     name="note" cols="21" rows="6" style="width:80%;" <?php
-    list($draft, $attrs) = Draft::getDraftAndDataAttrs('ticket.staff.note', false, $info['note']);
-    echo $attrs; ?>><?php echo ThreadEntryBody::clean($_POST ? $info['note'] : $draft);
+            list($draft, $attrs) = Draft::getDraftAndDataAttrs('ticket.staff.note', false, $info['note']);
+            echo $attrs; ?>><?php echo ThreadEntryBody::clean($_POST ? $info['note'] : $draft);
                 ?></textarea>
             </td>
         </tr>

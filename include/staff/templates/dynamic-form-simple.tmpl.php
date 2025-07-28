@@ -32,7 +32,24 @@
 				<div class='group' id='priority-1'><div class='color'>&nbsp;</div><div class='input-wrap'><input type='radio' name='" . $f->getWidget()->name . "' value='1' " . ( $f->getWidget()->value == 1 ? "checked='checked'" : "" ) . ">Low</div></div>
             </div>";
         }
-        else $f->render($options);
+        else {
+            if ($f instanceof TopicField) {
+
+                $inputName = htmlspecialchars($f->_widget->name ?? '');
+                $inputId = htmlspecialchars($f->_widget->id ?? '');
+                echo '<input type="hidden" name="' . $inputName . '" id="topicId">';
+
+                $topics=$thisstaff->getTopicNames1(true, false);
+                $tree = $thisstaff->buildTopicTree($topics);
+                echo $thisstaff->renderTopicTree($tree);
+
+            }
+            
+            if (!($f instanceof TopicField)) {
+                $f->render();
+            }
+        }
+
         
         ?>
         </div>
@@ -50,6 +67,6 @@
         </div>
     <?php
     }
-    $form->emitJavascript($options);
+
     ?>
 </div>
